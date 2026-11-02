@@ -13,6 +13,8 @@
 
 # For a Better Understanding
 
+![](/images/Screenshot%202026-11-02%20145342.png)
+
 | To Make It Clear | حتى تتضح الصورة |
 | :--- | ---: |
 | Imagine you are playing a city-building game. Usually, you build your city by clicking and placing one building at a time. It’s fun, but it’s hard to remember exactly how you built it, so you could never build the exact same city twice. Terraform is like a 'planning office' for computer infrastructure, enabling you to build the exact same city again automatically. | تخيل تيرافورم كأنك تلعب لعبة بناء مدن. عادةً، تقوم ببناء مدينتك عن طريق النقر ووضع المباني تلو الأخرى في كل مرة. ولكن يصعب تذكر كيفية بناءها بالضبط، لدرجة أنك لن تستطيع بناء نفس المدينة مرتين أبداً. تيرافورم يشبه "مكتب تخطيط" للبنية التحتية للحواسيب. يُمَكنك من بناء نفس المدينة بالضبط مرة اخرى وبشكل تلقائي. |
@@ -20,6 +22,7 @@
 <div align="center">
   
 ## Check out the following videos to learn more about Terraform:
+
 
 </div>
 
@@ -47,46 +50,60 @@
 
 # 2- Now, Let's Dig in
 
+![](/images/image%20(2).png)
+
+| Terraform - Get Started on AWS | تيرافورم - ابدأ مع خدمات أمازون ويب |
+| :--- | ---: |
+| This beginner-friendly, hands-on learning path introduces Infrastructure as Code using HashiCorp Terraform and Amazon Web Services. | مسار تعليمي تطبيقي للمبتدئين يهدف إلى تعريف المتعلمين بمفهوم البنية التحتية بصفتها كودًا باستخدام أداة تيرافورم من شركة هاشي كورب ومنصة خدمات أمازون ويب. |
+| It teaches learners how to automate the creation, modification, management, and deletion of cloud infrastructure through configuration files instead of manually provisioning resources through the AWS Management Console. | يركز المسار على تعلم كيفية أتمتة إنشاء البنية التحتية السحابية وتعديلها وإدارتها وحذفها من خلال كتابة ملفات الإعدادات البرمجية بدلًا من تنفيذ جميع العمليات يدويًا عبر لوحة تحكم أمازون ويب. |
+| Throughout the learning path, learners will install and configure Terraform, connect it to AWS, write infrastructure configurations using HashiCorp Configuration Language, and deploy their first AWS EC2 instance. | خلال هذا المسار، سيتعلم المتدرب كيفية تثبيت وإعداد تيرافورم وربطه بحساب أمازون ويب، وكتابة ملفات إعداد البنية التحتية باستخدام لغة تكوين هاشي كورب، ثم تطبيق هذه الإعدادات لإنشاء أول خادم افتراضي باستخدام خدمة الحوسبة المرنة من أمازون. |
+| The course also covers essential Terraform workflows, including initializing projects, validating configurations, planning infrastructure changes, applying configurations, managing variables and outputs, reusing configurations through modules, and destroying resources when they are no longer needed. | كما يتناول المسار دورة العمل الأساسية في تيرافورم، بما يشمل تهيئة المشاريع، والتحقق من صحة الإعدادات، ومعاينة التغييرات قبل تنفيذها، وتطبيق التعديلات، وإدارة المتغيرات والمخرجات، وإعادة استخدام الأكواد من خلال الوحدات البرمجية، بالإضافة إلى حذف الموارد السحابية عند الانتهاء منها. |
+| Additionally, learners will get an introduction to team collaboration and remote state management using HCP Terraform. | ويقدم المسار مقدمة عن العمل الجماعي وإدارة حالة البنية التحتية عن بُعد باستخدام منصة هاشي كورب تيرافورم السحابية. |
+| **By the end of this learning path, learners will be able to:** | **:بنهاية المسار، سيكون المتعلم قادرًا على** |
+| 1- Understand Infrastructure as Code and its benefits. | 1- فهم مفهوم البنية التحتية بصفتها كودًا وأهميته . |
+| 2- Install and configure Terraform. | 2- تثبيت وإعداد أداة تيرافورم. |
+| 3- Connect Terraform with AWS. | 3- ربط تيرافورم بمنصة خدمات أمازون ويب. |
+| 4- Write and manage basic Terraform configuration files. | 4- كتابة وإدارة ملفات إعداد تيرافورم. |
+| 5- Provision and manage AWS EC2 infrastructure. | 5- إنشاء وإدارة الخوادم الافتراضية باستخدام خدمة الحوسبة المرنة من أمازون. |
+| 6- Use Terraform CLI commands and workflows. | 6- استخدام الأوامر الأساسية لأداة تيرافورم. |
+| 7- Work with variables, outputs, and modules. | 7- التعامل مع المتغيرات والمخرجات والوحدات البرمجية. |
+| 8- Plan, apply, modify, and destroy infrastructure. | 8- تخطيط التغييرات وتنفيذها وإدارة الموارد السحابية وحذفها. |
+| 9- Understand the basics of remote state and team collaboration using HCP Terraform. | 9- فهم أساسيات إدارة حالة البنية التحتية عن بُعد والتعاون الجماعي باستخدام منصة هاشي كورب تيرافورم السحابية. |
+
+<div align="center">
+  
+# [Terraform - Get Started on AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+
+</div>
+
+# To Go Deeper
+
+| Series Overview | نظرة عامة على السلسلة |
+| :--- | ---: |
+| This series, "30 Days of AWS with Terraform," is a comprehensive, hands-on learning roadmap designed to take you from a beginner to an interview-ready professional in cloud infrastructure. | سلسلة «ثلاثون يومًا من خدمات أمازون ويب باستخدام تيرافورم» هي خارطة طريق تعليمية شاملة وتطبيقية، تهدف إلى نقل المتعلم من مستوى المبتدئ إلى مستوى يؤهله لاجتياز المقابلات الوظيفية في مجال البنية التحتية السحابية. |
+| Led by Piyush Sachdeva, an industry expert with extensive credentials, the course focuses on pure, practical knowledge rather than shortcuts. | يقدمها بيوش ساشديفا، وهو خبير في المجال يمتلك خبرات ومؤهلات مهنية واسعة، وتركز السلسلة على اكتساب المعرفة النظرية والتطبيقية المتعمقة، مع التركيز على الممارسة العملية والمشاريع الواقعية بدلًا من الاعتماد على الحلول المختصرة أو الطرق السريعة. |
+
+![](/images/Screenshot%202026-11-02%20153518.png)
+
+| Series Structure & Curriculum | هيكل السلسلة والمنهج التدريبي |
+| :--- | ---: |
+| A comprehensive hands on program designed to take learners from beginners to confident Terraform users. | برنامج تدريبي شامل وتطبيقي يهدف إلى نقل المتعلمين من مستوى المبتدئين إلى مستوى متقدم من الإتقان والثقة في استخدام أداة تيرافورم. |
+| The series consists of 30 full length videos covering core concepts and real world projects. | تتكون السلسلة من 30 فيديو تدريبيًا كاملًا تغطي المفاهيم الأساسية والتطبيقات العملية والمشاريع الواقعية. |
+| The course is divided into three core modules: | تنقسم الدورة إلى ثلاثة محاور رئيسية: |
+| Module 1 (Days 1 to 13): Focuses on Terraform core concepts, including installation, providers, state management, variables, data types, meta arguments, and functions. | المحور الأول (الأيام 1 إلى 13): يركز على المفاهيم الأساسية لتيرافورم، بما في ذلك التثبيت، ومزودات الخدمات، وإدارة الحالة، والمتغيرات، وأنواع البيانات، والوسائط الإضافية، والدوال. |
+| Module 2 (Days 14 to 24): Covers hands on projects, such as static website hosting, VPC peering, IAM management, Elastic Beanstalk with blue green deployment, Lambda triggers, EKS clusters, and scalable infrastructure with auto scaling. | المحور الثاني (الأيام 14 إلى 24): يتناول المشاريع والتطبيقات العملية، مثل استضافة المواقع الإلكترونية الثابتة، وربط الشبكات الافتراضية الخاصة، وإدارة الهويات والصلاحيات، ونشر التطبيقات باستخدام خدمة بيئة التطبيقات المرنة مع أسلوب النشر الأزرق والأخضر، وإعداد مشغلات الدوال السحابية، وإنشاء مجموعات كوبرنيتس المُدارة، وبناء بنية تحتية قابلة للتوسع باستخدام التوسع التلقائي. |
+| Module 3 (Days 25 to 30): Explores advanced topics, including Terraform import, Terraform Cloud workspaces, CI CD pipelines, 3 tier architecture, GitOps with ArgoCD, and drift detection. | المحور الثالث (الأيام 25 إلى 30): يستكشف الموضوعات المتقدمة، بما في ذلك استيراد الموارد الموجودة إلى تيرافورم، وإدارة مساحات العمل عبر منصة تيرافورم السحابية، وإنشاء مسارات التكامل والتسليم المستمر، وبناء بنية معمارية ثلاثية الطبقات، وتطبيق مفهوم عمليات التطوير باستخدام أرجو سي دي، واكتشاف الانحرافات بين البنية التحتية الفعلية والإعدادات البرمجية. |
+
+<div align="center">
+  
+# [Learn AWS With Terraform in 30 Days (with real-time projects)](https://youtu.be/xUtGqC-NXJE?si=_ZrQuHWUthuQ2Vh8)
+
+</div>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Terraform
-
-**الهدف:** أتمتة بناء البنية التحتية على AWS بدل إنشائها يدوياً
-**التكلفة:** المصادر التالية مجانية
-
-## مصادر مجانية (اختر واحد)
-- **الخيار الأول:** Terraform Course - Automate your AWS Cloud Infrastructure
-- **الخيار الثاني:** AWS Terraform Full course - #30daysofAWSterraform
-
-## مصدر إضافي
-- [HashiCorp Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) - الدروس الرسمية من الشركة المطورة
 
 ## تنبيه مهم
 أي خدمة تُنشأ على AWS قد تسبب تكلفة إذا تُركت شغالة. بعد كل تجربة، نفّذ الأمر `terraform destroy` لحذف كل ما أنشأته.
-
-## مطلوب
-- روابط الكورسين أعلاه
