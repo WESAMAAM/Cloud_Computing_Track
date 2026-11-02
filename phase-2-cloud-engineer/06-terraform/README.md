@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [1- Definition and Introduction](#1--definition-and-introduction)
-  * [For a Better Understanding](#for-a-better-understanding)
+ * [For a Better Understanding](#for-a-better-understanding)
 * [2- Now, Let's Dig in](#2--now-lets-dig-in)
-  * [To Go Deeper](#to-go-deeper)
+ * [To Go Deeper](#to-go-deeper)
 * [3- Additional](#3--additional)
 
 ---
