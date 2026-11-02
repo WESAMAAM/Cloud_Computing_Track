@@ -1,5 +1,15 @@
 ![images](/images/HashiCorp_Terraform.png)
 
+## Table of Contents
+
+* [1- Definition and Introduction](#1--definition-and-introduction)
+  * [For a Better Understanding](#for-a-better-understanding)
+* [2- Now, Let's Dig in](#2--now-lets-dig-in)
+  * [To Go Deeper](#to-go-deeper)
+* [3- Additional](#3--additional)
+
+---
+
 # 1- Definition and Introduction 
 
 | **What is Terraform?** | **ما هو تيرافورم؟** |
@@ -76,6 +86,9 @@
 
 </div>
 
+> **Important Note**
+> Any service created on AWS may incur costs if left running. After every experiment, run the command `terraform destroy` to delete everything you created.
+
 # To Go Deeper
 
 | Series Overview | نظرة عامة على السلسلة |
@@ -100,10 +113,12 @@
 
 </div>
 
+# 3- Additional
 
+| Terraform Up and Running | About |
+| :--- | :--- |
+| <div align="center"><img src="/images/terraform-up-and-running-3rd-edition-3d-cover-small.png" width="220"></div> | Terraform: Up and Running is an educational and practical book focused on the concept of Infrastructure as Code (IaC). It aims to teach readers how to create, deploy, and manage cloud infrastructure using Terraform.<br><br>The author provides a practical explanation of Terraform concepts, starting with the fundamentals and progressing to building and managing complete, scalable infrastructure through code examples and real-world applications.<br><br>The book is not limited to using Terraform with Amazon Web Services (AWS); it also explores working with multiple cloud providers and technologies, including AWS, Google Cloud, and Microsoft Azure, in addition to containerization technologies and Kubernetes.<br><br>The book focuses on developing the skills needed to write reusable, testable, and maintainable infrastructure code, while managing infrastructure resources in an organized way, whether working individually or as part of a development team. |
 
-
-
-
-## تنبيه مهم
-أي خدمة تُنشأ على AWS قد تسبب تكلفة إذا تُركت شغالة. بعد كل تجربة، نفّذ الأمر `terraform destroy` لحذف كل ما أنشأته.
+| Certification Overview | Terraform Certified Associate |
+| :--- | :--- |
+| The HashiCorp Certified: Terraform Associate certification is a professional certification offered by HashiCorp. It aims to validate learners' fundamental knowledge and skills required to use Terraform to provision and manage infrastructure using the Infrastructure as Code (IaC) approach.<br><br>The certification focuses on assessing candidates' understanding of Terraform's core concepts, including writing configuration files, working with providers, managing infrastructure state, and creating, modifying, and destroying cloud resources.<br><br>It also covers concepts such as modules, variables, outputs, resource versioning, and infrastructure management in individual and team environments using HCP Terraform.<br><br>The certification aims to demonstrate a learner's ability to use Terraform to automate and manage infrastructure, serving as a suitable starting point for advancing toward more specialized roles in cloud infrastructure engineering. | <div align="center"><img src="/images/Terraform-003-Badge-300x300.png" width="220"></div> |
