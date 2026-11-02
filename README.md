@@ -15,7 +15,7 @@
 | المسار / الموضوع | الوصف والمحتوى | الحالة |
 | :--- | :--- | :---: |
 | **[Network+ (N10-009)](phase-2-cloud-engineer/05-network-plus/)** | أساسيات الشبكات، البروتوكولات، التوجيه، وأمان الشبكات | ⏳ Pending |
-| **[Terraform](phase-2-cloud-engineer/06-terraform/)** | البنية التحتية ككود (IaC)، لغة HCL، وإدارة الحالات | ⏳ Pending |
+| **[Terraform](phase-2-cloud-engineer/06-terraform/)** | البنية التحتية ككود (IaC)، لغة HCL، وإدارة الحالات | **Partially Finished** |
 | **[Linux](phase-2-cloud-engineer/07-linux/)** | إدارة أنظمة التشغيل، الصلاحيات، وBash Scripting | ⏳ Pending |
 | **[شهادة Solutions Architect Associate](phase-2-cloud-engineer/08-saa-certificate/)** | تصميم معماريات مرنة وآمنة وفعالة على AWS | ⏳ Pending |
 ### أقسام إضافية
