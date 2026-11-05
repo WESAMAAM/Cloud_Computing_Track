@@ -3,7 +3,7 @@
 What is Cloud Computing? | Amazon Web Services
 > This video provides a great introductory overview of cloud computing as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
-![](phase-1-cloud-practitioner/01-workshop/media/What%20is%20Cloud%20Computing%20Amazon%20Web%20Services.jpg)
+![](phase-1-cloud-practitioner/01-workshop/media/What_is_Cloud_Computing__Amazon_Web_Services.jpg)
 
 ## 2.
 Cloud Computing Explained
