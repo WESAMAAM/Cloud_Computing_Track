@@ -46,6 +46,11 @@ This video provides a great introductory overview of cloud computing as the on-d
     <img src="media/What%20is%20Cloud%20Computing%20%20Amazon%20Web%20Services.jpg" width="450" alt="What is Cloud Computing? | Amazon Web Services">
   </a>
 </p>
+<div align="center">
+
+> 💡 **Tip:** Click on the image to watch the video content.
+
+</div>
 
 ***
 
@@ -106,6 +111,12 @@ This workshop, was hosted by AWS Student Builder Group at UB, and presented by t
     <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="450" alt="Introduction to Cloud Computing">
   </a>
 </p>
+<div align="center">
+
+> 💬 **Need Help or Want to Collaborate?**  
+> Join our **AWS Cloud Computing WhatsApp Group** to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
+
+</div>
 
 ***
 
@@ -115,6 +126,13 @@ After finishing this phase, you learned:
 * Know the basics of setting up and managing cloud servers.
 * Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner.
 * Take your personal programming projects from your local device to the live internet.
+
+<div align="center"><br>
+
+> ⭐ **Enjoying the Content?**  
+> If you find this cloud computing roadmap and phase helpful, please don't forget to **give this repository a star** and share it with other students so everyone can benefit!
+
+</div>
 
 ***
 
