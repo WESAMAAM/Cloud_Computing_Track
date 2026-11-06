@@ -1,8 +1,42 @@
+# First Step to the Cloud: Foundations Made Simple
+### What You Will Learn
+1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with pay as you go pricing instead of using local computers.
+2. **Important Concepts:** Understand key terms easily:
+   * **Scaling:** Changing the size of resources when needed.
+   * **Load Balancing:** Spreading network traffic evenly.
+   * **Autoscaling:** Automatically growing or shrinking resources based on user demand.
+   * etc...
+3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk.
 
 ***
 
-## 1.
-**What is Cloud Computing? | Amazon Web Services**<br>
+### Contents
+| # | Video Title | Description | Duration |
+| :--- | :--- | :--- | :--- |
+| 1 | What is Cloud Computing? | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
+| 2 | Cloud Computing Explained | explaining how cloud allows users to store and run applications over the internet | 8:37 |
+| 3 | The Most Important Concepts To Know | a comprehensive overview of essential cloud computing concepts | 45:32 |
+| 4 | Introduction to Cloud Computing | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15 |
+
+<p align="center">
+  <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
+    <img src="media/What%20is%20Cloud%20Computing%20%20Amazon%20Web%20Services.jpg" width="249" style="margin: 10px;" alt="What is Cloud Computing? | Amazon Web Services">
+  </a>
+  <a href="https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF" target="_blank">
+    <img src="media/Cloud%20Computing%20Explained.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained">
+  </a>
+  <a href="https://youtu.be/ZaA0kNm18pE?si=zYLqWOJHSE4zWfpJ" target="_blank">
+    <img src="media/Cloud%20Computing%20Explained%20The%20Most%20Important%20Concepts%20To%20Know.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained: The Most Important Concepts To Know">
+  </a>
+  <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
+    <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="249" style="margin: 10px;" alt="Introduction to Cloud Computing">
+  </a>
+</p>
+
+***
+
+### Contents
+### **What is Cloud Computing? | Amazon Web Services**<br>
 This video provides a great introductory overview of cloud computing as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
 <p align="center">
@@ -13,8 +47,7 @@ This video provides a great introductory overview of cloud computing as the on-d
 
 ***
 
-## 2.
-**Cloud Computing Explained**<br>
+### **Cloud Computing Explained**<br>
 This video explaining how it allows users to store and run applications over the internet instead of on local hardware
 
 <p align="center">
@@ -25,9 +58,9 @@ This video explaining how it allows users to store and run applications over the
 
 ***
 
-## 3.
-**Cloud Computing Explained: The Most Important Concepts To Know**<br>
-This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners, The speaker explains the following key topics:
+### **Cloud Computing Explained: The Most Important Concepts To Know**<br>
+This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners<br>
+The speaker explains the following key topics: 
 - Scaling
 - Load Balancing
 - Autoscaling
@@ -41,8 +74,7 @@ This video provides a comprehensive overview of essential cloud computing concep
 
 ***
 
-## 4.
-**Introduction to Cloud Computing**<br>
+## **Introduction to Cloud Computing**<br>
 This workshop, was hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via Amazon EC2, and deploying applications using Elastic Beanstalk
 
 <p align="center">
