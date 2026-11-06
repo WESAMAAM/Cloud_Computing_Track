@@ -22,6 +22,22 @@
 ***
 
 ### Contents
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">is the contents of this step all free?</th>
+      <th align="left">How much time this step will take me?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">Yes, completely free</td>
+      <td align="left">About 4 hours in total</td>
+    </tr>
+  </tbody>
+</table>
+
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
 | 1 | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
