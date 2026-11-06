@@ -38,7 +38,7 @@
 ***
 
 ### Contents
-### **What is Cloud Computing? | Amazon Web Services**<br>
+### **1. What is Cloud Computing? | Amazon Web Services**<br>
 This video provides a great introductory overview of cloud computing as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
 <p align="center">
@@ -49,7 +49,7 @@ This video provides a great introductory overview of cloud computing as the on-d
 
 ***
 
-### **Cloud Computing Explained**<br>
+### **2. Cloud Computing Explained**<br>
 This video explaining how it allows users to store and run applications over the internet instead of on local hardware
 
 <p align="center">
@@ -62,7 +62,7 @@ This video explaining how it allows users to store and run applications over the
 
 <div align="center">
   
-### Why Cloud Computing Matters Across Tech Roles
+### **3. Why Cloud Computing Matters Across Tech Roles**<br>
 To understand cloud computing, consider how different tech professionals use it in practice:
 
 </div><br>
@@ -82,7 +82,7 @@ To understand cloud computing, consider how different tech professionals use it 
 
 ***
 
-### **Cloud Computing Explained: The Most Important Concepts To Know**<br>
+### **4. Cloud Computing Explained: The Most Important Concepts To Know**<br>
 This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners<br>
 The speaker explains the following key topics: 
 - Scaling
@@ -98,7 +98,7 @@ The speaker explains the following key topics:
 
 ***
 
-### **Introduction to Cloud Computing**<br>
+### **5. Introduction to Cloud Computing**<br>
 This workshop, was hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via Amazon EC2, and deploying applications using Elastic Beanstalk
 
 <p align="center">
