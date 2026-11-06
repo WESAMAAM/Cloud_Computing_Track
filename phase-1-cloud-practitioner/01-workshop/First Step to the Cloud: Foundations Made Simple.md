@@ -3,7 +3,6 @@
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
-<br>
 
 ### What You Will Learn
 1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with [`pay as you go`](https://aws.amazon.com/pricing/) pricing instead of using local computers
@@ -22,22 +21,6 @@
 ***
 
 ### Contents
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">is the contents of this step all free?</th>
-      <th align="left">How much time this step will take me?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">Yes, completely free</td>
-      <td align="left">About 4 hours in total</td>
-    </tr>
-  </tbody>
-</table>
-
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
 | 1 | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
@@ -60,6 +43,11 @@
     <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="249" style="margin: 10px;" alt="Introduction to Cloud Computing">
   </a>
 </p>
+<div align="center">
+  
+> 📌 **Important Note:** <br> All contents of this step are `100% free` and will take about `4 hours` in total to complete
+
+</div>
 
 ***
 ### Contents Detailed
