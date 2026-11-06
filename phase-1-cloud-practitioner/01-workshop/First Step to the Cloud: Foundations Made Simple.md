@@ -22,7 +22,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
 | 2 | [Cloud Computing Explained](#2-cloud-computing-explained) | explaining how cloud allows users to store and run applications over the internet | 8:37 |
-| 3 | [Why Cloud Computing Matters Across Tech Roles](#3-why-cloud-computing-matters-across-tech-roles) | explaining how different tech professionals use it in practice | - |
+| 3 | [Why Cloud Computing Matters Across Tech Roles?](#3-why-cloud-computing-matters-across-tech-roles) | explaining how different tech professionals use it in practice | - |
 | 4 | [The Most Important Concepts To Know](#4-cloud-computing-explained-the-most-important-concepts-to-know) | a comprehensive overview of essential cloud computing concepts | 45:32 |
 | 5 | [Introduction to Cloud Computing](#5-introduction-to-cloud-computing) | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15 |
 
@@ -72,7 +72,7 @@ This video explaining how it allows users to store and run applications over the
 
 <div align="center">
   
-### **3. Why Cloud Computing Matters Across Tech Roles**<br>
+### **3. Why Cloud Computing Matters Across Tech Roles?**<br>
 To understand cloud computing, consider how different tech professionals use it in practice:
 
 </div><br>
