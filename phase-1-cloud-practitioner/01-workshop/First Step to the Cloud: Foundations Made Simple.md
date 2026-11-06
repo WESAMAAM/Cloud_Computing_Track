@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="media/Screenshot%202026-11-06%20163058.png" width="249" alt="Screenshot">
+</div>
+
 # First Step to the Cloud: Foundations Made Simple
 <br>
 
@@ -42,7 +46,7 @@
 </p>
 
 ***
-
+### Contents Detailed
 ### **1. What is Cloud Computing? | Amazon Web Services**<br>
 This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/) as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
