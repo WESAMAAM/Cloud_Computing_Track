@@ -1,4 +1,5 @@
 # First Step to the Cloud: Foundations Made Simple
+<br>
 
 ### What You Will Learn
 1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with [`pay as you go`](https://aws.amazon.com/pricing/) pricing instead of using local computers
@@ -11,7 +12,7 @@
 
 <div align="center">
   
-> 📌 **Platform Focus:**<br> This roadmap primarily focuses on [**Amazon Web Services (AWS)**](https://aws.amazon.com/what-is-aws/) because it is the leading cloud computing provider in the industry, making it the ideal foundation for building professional and practical cloud skills.
+> 📌 **Platform Focus:**<br> This roadmap primarily focuses on [**Amazon Web Services (AWS)**](https://aws.amazon.com/what-is-aws/) because it is the leading cloud computing provider in the industry, making it the ideal foundation for building professional and practical cloud skills
 </div>
 
 ***
@@ -19,7 +20,7 @@
 ### Contents
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
-| 1 | What is Cloud Computing? | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
+| 1 | [What is Cloud Computing?](#1--What-is-Cloud-Computing?--Amazon-Web-Services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
 | 2 | Cloud Computing Explained | explaining how cloud allows users to store and run applications over the internet | 8:37 |
 | 3 | Why Cloud Computing Matters Across Tech Roles | explaining how different tech professionals use it in practice | - |
 | 4 | The Most Important Concepts To Know | a comprehensive overview of essential cloud computing concepts | 45:32 |
@@ -42,7 +43,6 @@
 
 ***
 
-### Contents detailed
 ### **1. What is Cloud Computing? | Amazon Web Services**<br>
 This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/) as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
@@ -93,7 +93,7 @@ To understand cloud computing, consider how different tech professionals use it 
 
 
 > 💬 **Need Help or Want to Collaborate?**  
-> Join our **AWS Cloud Computing WhatsApp Group** to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
+> Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
 
 </div>
 
