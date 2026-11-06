@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="media/Screenshot%202026-11-06%20163058.png" width="249" alt="Screenshot">
+  <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
@@ -148,8 +148,16 @@ After finishing this phase, you learned:
 * Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner
 * Take your personal programming projects from your local device to the live internet<br><br>
 
+<div align="center">
+  
 Keep this momentum going as you move forward to the [**Next Step: AWS Cloud Quest (Cloud Practitioner)**](https://github.com/WESAMAAM/Cloud_Computing_Track/tree/main/phase-1-cloud-practitioner/02-aws-cloud-quest)
-An interactive 3D roleplaying game built by AWS to help you learn practical cloud concepts by solving real world technical challenges in a fun and hands on environment.
+An interactive 3D roleplaying game built by AWS to help you learn practical cloud concepts by solving real world technical challenges in a fun and hands on environment
+
+</div><br>
+
+<div align="right">
+  <img src="media/yfr8ceuufue91.jpg" width="400" alt="Screenshot">
+</div>
 
 <div align="center"><br>
 
