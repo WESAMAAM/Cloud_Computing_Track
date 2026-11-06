@@ -146,3 +146,33 @@ An interactive 3D roleplaying game built by AWS to help you learn practical clou
 </div>
 
 ***
+
+### References
+
+<sub>
+
+<font color="gray">
+
+- The foundational introduction to cloud services and global infrastructure is detailed on [Amazon Web Services](https://aws.amazon.com/what-is-aws/?trk=dc971cde-705a-4d07-b04f-ac6876a3f60b&sc_channel=ps&ef_id=CjwKCAiAkrbXBhB2EiwA2y1E3i779J34e8pQobIYJeb4OXerBfYaAQU3evSOLXpoAzN44YwCNPb6JxoCskMQAvD_BwE:G:s&gads_camp=23846236970&gads_ag=200318274150&gads_ad=826750887073&gads_kw=amazon%20web%20services%20cloud%20computing&gads_matchtype=p&gads_network=g&gads_device=c&gads_geo=9230105&gad_campaignid=23846236970&gbraid=0AAAAADjHtp-o9X-ZEm4mfiEpnDrgs8DeG&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3i779J34e8pQobIYJeb4OXerBfYaAQU3evSOLXpoAzN44YwCNPb6JxoCskMQAvD_BwE); see the `cloud-pricing` model for pay-as-you-go details. nbsp;
+
+- The definition of cloud computing as the on-demand delivery of IT resources is provided by [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/); check `core-concepts` for scalability and architecture.
+
+- Comprehensive cost management and resource scaling options are covered under [AWS Pricing](https://aws.amazon.com/pricing/); rates vary by service and region.
+
+- Platform-as-a-Service (PaaS) deployment and automated application scaling are managed via `aws-elastic-beanstalk`; detailed specifications are available on [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/?trk=6cd0fc53-0459-45c5-a2e1-13fb801a7e1b&sc_channel=ps&ef_id=CjwKCAiAkrbXBhB2EiwA2y1E3nKlEOA0KFfU5MZKYwkumsURZPAFilFRXdGWMhHbtzA7rJCwTmoGbRoCPigQAvD_BwE:G:s&gads_camp=23846236967&gads_ag=200318270110&gads_ad=808710126408&gads_kw=elastic%20beanstalk&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9230105&gad_campaignid=23846236967&gbraid=0AAAAADjHtp_skvK1c6nIk5qCNeMKnSf2P&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3nKlEOA0KFfU5MZKYwkumsURZPAFilFRXdGWMhHbtzA7rJCwTmoGbRoCPigQAvD_BwE).
+
+- Scalable compute environments for training machine learning models are cataloged under [AWS Machine Learning](https://aws.amazon.com/what-is/machine-learning/); see `ml-infrastructure` for GPU instance types.
+
+- Community initiatives and workshop sessions are hosted by [AWS Student Builder Group at UB](https://www.linkedin.com/company/asbg-ub/home/) and presented by club leader [Ali Al-Abdullah](https://ali-hussain.sa/); refer to `community-workshops` for slides and code samples.
+
+- Video overview covering introductory cloud concepts and on-demand IT resources is available at [What is Cloud Computing Video](https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW); see `video-overview` for details.
+
+- Detailed explanation on running and storing applications over the internet is featured in [Cloud Computing Explained Video](https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF); see `cloud-explained` for reference.
+
+- Comprehensive walkthrough of essential cloud concepts including scaling and load balancing is provided in [Important Concepts Video](https://youtu.be/ZaA0kNm18pE?si=zYLqWOJHSE4zWfpJ); check `core-topics`.
+
+- Practical workshop demonstrating virtual server deployment via EC2 and Elastic Beanstalk is hosted at [Introduction to Cloud Computing Workshop](https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv); see `workshop-recording`.
+
+</font>
+
+</sub>
