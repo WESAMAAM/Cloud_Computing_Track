@@ -18,7 +18,7 @@ Cloud Computing Explained: The Most Important Concepts To Know
 > - Autoscaling
 > - etc...
 
-![imahw](phase-1-cloud-practitioner/01-workshop/media/Cloud%20Computing%20Explained%20The%20Most%20Important%20Concepts%20To%20Know.jpg)
+![](/media/Cloud%20Computing%20Explained%20The%20Most%20Important%20Concepts%20To%20Know.jpg)
 
 ## 4.
 Introduction to Cloud Computing
