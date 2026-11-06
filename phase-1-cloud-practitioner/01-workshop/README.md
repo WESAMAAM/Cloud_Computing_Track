@@ -1,22 +1,24 @@
 # First Step to the Cloud: Foundations Made Simple
+
 ### What You Will Learn
-1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with pay as you go pricing instead of using local computers.
+1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with pay as you go pricing instead of using local computers
 2. **Important Concepts:** Understand key terms easily:
-   * **Scaling:** Changing the size of resources when needed.
-   * **Load Balancing:** Spreading network traffic evenly.
-   * **Autoscaling:** Automatically growing or shrinking resources based on user demand.
-   * etc...
-3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk.
+   * **Scaling:** Changing the size of resources when needed
+   * **Load Balancing:** Spreading network traffic evenly
+   * **Autoscaling:** Automatically growing or shrinking resources based on user demand
+   * **etc...
+3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk
 
 ***
 
 ### Contents
-| # | Video Title | Description | Duration |
+| # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
 | 1 | What is Cloud Computing? | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
 | 2 | Cloud Computing Explained | explaining how cloud allows users to store and run applications over the internet | 8:37 |
-| 3 | The Most Important Concepts To Know | a comprehensive overview of essential cloud computing concepts | 45:32 |
-| 4 | Introduction to Cloud Computing | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15 |
+| 3 | Why Cloud Computing Matters Across Tech Roles |  | - |
+| 4 | The Most Important Concepts To Know | a comprehensive overview of essential cloud computing concepts | 45:32 |
+| 5 | Introduction to Cloud Computing | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15 |
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
@@ -58,6 +60,24 @@ This video explaining how it allows users to store and run applications over the
 
 ***
 
+<div align="center">
+
+### Why Cloud Computing Matters Across Tech Roles <br> 
+To understand cloud computing, consider how different tech professionals use it in practice:
+
+</div>
+
+<br>
+
+- **Web Developers:**  Publish and deploy websites and web applications online using cloud providers like AWS<br>
+- **AI Engineers:**  Rent powerful cloud compute resources to train massive machine learning models instead of using local hardware<br>
+- **Data Engineers:** Build scalable cloud databases to manage, store, and process billions or trillions of data records<br>
+- **Game Developers:** Host multiplayer servers that handle thousands of active players simultaneously without crashing<br>
+- **Cyber Security Specialists:**  Set up isolated cloud security environments for testing and monitoring threats in real time<br>
+
+
+***
+
 ### **Cloud Computing Explained: The Most Important Concepts To Know**<br>
 This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners<br>
 The speaker explains the following key topics: 
@@ -74,7 +94,7 @@ The speaker explains the following key topics:
 
 ***
 
-## **Introduction to Cloud Computing**<br>
+### **Introduction to Cloud Computing**<br>
 This workshop, was hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via Amazon EC2, and deploying applications using Elastic Beanstalk
 
 <p align="center">
@@ -82,3 +102,15 @@ This workshop, was hosted by AWS Student Builder Group at UB, and presented by t
     <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="450" alt="Introduction to Cloud Computing">
   </a>
 </p>
+
+***
+
+### What Have You Learned
+After finishing this phase, you learned:
+* Understand the difference between local computers and cloud environments.
+* Know the basics of setting up and managing cloud servers.
+* Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner.
+* Take your personal programming projects from your local device to the live internet.
+
+***
+
