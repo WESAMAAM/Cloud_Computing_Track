@@ -6,7 +6,7 @@
    * **Scaling:** Changing the size of resources when needed
    * **Load Balancing:** Spreading network traffic evenly
    * **Autoscaling:** Automatically growing or shrinking resources based on user demand
-   * **etc...
+   * etc...
 3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk
 
 ***
@@ -61,20 +61,24 @@ This video explaining how it allows users to store and run applications over the
 ***
 
 <div align="center">
-
-### Why Cloud Computing Matters Across Tech Roles <br> 
+  
+### Why Cloud Computing Matters Across Tech Roles
 To understand cloud computing, consider how different tech professionals use it in practice:
 
-</div>
-
-<br>
+</div><br>
 
 - **Web Developers:**  Publish and deploy websites and web applications online using cloud providers like AWS<br>
 - **AI Engineers:**  Rent powerful cloud compute resources to train massive machine learning models instead of using local hardware<br>
 - **Data Engineers:** Build scalable cloud databases to manage, store, and process billions or trillions of data records<br>
 - **Game Developers:** Host multiplayer servers that handle thousands of active players simultaneously without crashing<br>
 - **Cyber Security Specialists:**  Set up isolated cloud security environments for testing and monitoring threats in real time<br>
+- etc...
 
+<div align="center"><br>
+  
+*so Cloud computing is not just a specialized field for those who want to master every single detail of the cloud, Instead, it is an essential skill for every tech professional, because sooner or later, you will interact with it and use it in your work, This is exactly what this phase aims to achieve: giving you a solid foundational understanding so you can use the cloud comfortably and confidently in your projects*
+
+</div>
 
 ***
 
