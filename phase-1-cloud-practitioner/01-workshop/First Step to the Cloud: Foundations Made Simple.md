@@ -20,7 +20,7 @@
 ### Contents
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
-| 1 | [What is Cloud Computing?](#1--What-is-Cloud-Computing?--Amazon-Web-Services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
+| 1 | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
 | 2 | Cloud Computing Explained | explaining how cloud allows users to store and run applications over the internet | 8:37 |
 | 3 | Why Cloud Computing Matters Across Tech Roles | explaining how different tech professionals use it in practice | - |
 | 4 | The Most Important Concepts To Know | a comprehensive overview of essential cloud computing concepts | 45:32 |
