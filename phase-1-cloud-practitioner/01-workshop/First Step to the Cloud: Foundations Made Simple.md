@@ -175,5 +175,7 @@ An interactive 3D roleplaying game built by AWS to help you learn practical clou
 > • Comprehensive walkthrough of essential cloud concepts including scaling and load balancing is provided in [Important Concepts Video](https://youtu.be/ZaA0kNm18pE); check `core-topics`
 
 > • Practical workshop demonstrating virtual server deployment via EC2 and Elastic Beanstalk is hosted at [Introduction to Cloud Computing Workshop](https://youtu.be/KnlXTgvUO2Y); see `workshop-recording`
+ 
+> • Community collaboration, live support, and student discussions are coordinated through the <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff;">AWS Cloud Computing WhatsApp Group</a>; see <code>community-chat</code> for peer assistance. <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff; text-decoration: none;"></a>
 
 </sub>
