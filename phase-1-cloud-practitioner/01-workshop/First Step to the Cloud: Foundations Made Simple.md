@@ -37,7 +37,7 @@
 
 ***
 
-### Contents
+### Contents detailed
 ### **1. What is Cloud Computing? | Amazon Web Services**<br>
 This video provides a great introductory overview of cloud computing as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
 
@@ -83,6 +83,12 @@ To understand cloud computing, consider how different tech professionals use it 
   
 *so Cloud computing is not just a specialized field for those who want to master every single detail of the cloud, Instead, it is an essential skill for every tech professional, because sooner or later, you will interact with it and use it in your work, This is exactly what this phase aims to achieve: giving you a solid foundational understanding so you can use the cloud comfortably and confidently in your projects*
 
+</div><br>
+<div align="center">
+
+> 💬 **Need Help or Want to Collaborate?**  
+> Join our **AWS Cloud Computing WhatsApp Group** to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
+
 </div>
 
 ***
@@ -111,28 +117,31 @@ This workshop, was hosted by AWS Student Builder Group at UB, and presented by t
     <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="450" alt="Introduction to Cloud Computing">
   </a>
 </p>
-<div align="center">
-
-> 💬 **Need Help or Want to Collaborate?**  
-> Join our **AWS Cloud Computing WhatsApp Group** to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
-
-</div>
 
 ***
 
+<div align="center">
+  
+# Congratulations! <br>
+on successfully completing this step! You now have a solid understanding of cloud computing foundations and how cloud skills apply across different tech fields
+
+</div>
+
 ### What Have You Learned
 After finishing this phase, you learned:
-* Understand the difference between local computers and cloud environments.
-* Know the basics of setting up and managing cloud servers.
-* Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner.
-* Take your personal programming projects from your local device to the live internet.
+* Understand the difference between local computers and cloud environments
+* Know the basics of setting up and managing cloud servers
+* Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner
+* Take your personal programming projects from your local device to the live internet<br><br>
+
+Keep this momentum going as you move forward to the **Next Step: AWS Cloud Quest (Cloud Practitioner)**
+An interactive 3D roleplaying game built by AWS to help you learn practical cloud concepts by solving real world technical challenges in a fun and hands on environment.
 
 <div align="center"><br>
 
 > ⭐ **Enjoying the Content?**  
-> If you find this cloud computing roadmap and phase helpful, please don't forget to **give this repository a star** and share it with other students so everyone can benefit!
+> If you find this cloud computing roadmap, phase and current step helpful, please don't forget to **give this repository a star** and share it with other students so everyone can benefit!
 
 </div>
 
 ***
-
