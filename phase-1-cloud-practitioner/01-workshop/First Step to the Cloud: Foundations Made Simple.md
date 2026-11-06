@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
 </div>
 
