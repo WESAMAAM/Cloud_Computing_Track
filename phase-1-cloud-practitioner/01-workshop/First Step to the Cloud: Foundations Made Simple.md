@@ -3,6 +3,7 @@
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
+Welcome to the first step of your cloud computing journey! This introductory guide is designed especially for beginners and tech enthusiasts who want to understand how modern cloud systems work using Amazon Web Services, Through simple explanations, clear core concepts, and practical video lessons, you will quickly learn how cloud technology replaces traditional local computers with flexible, on demand resources, Dive in to build a strong, practical foundation for your tech career!
 
 ### What You Will Learn
 1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with [`pay as you go`](https://aws.amazon.com/pricing/) pricing instead of using local computers
