@@ -5,7 +5,7 @@
 
 | المسار / الموضوع | الوصف والمحتوى | الحالة |
 | :--- | :--- | :---: |
-| **[ورشة عمل: مدخل إلى الحوسبة السحابية](phase-1-cloud-practitioner/01-workshop/)** | مفاهيم الحوسبة السحابية الأساسية ونماذج الخدمة | **Partially Finished** |
+| **[ورشة عمل: مدخل إلى الحوسبة السحابية](https://github.com/WESAMAAM/Cloud_Computing_Track/blob/main/phase-1-cloud-practitioner/01-workshop/First%20Step%20to%20the%20Cloud%3A%20Foundations%20Made%20Simple.md)** | مفاهيم الحوسبة السحابية الأساسية ونماذج الخدمة | **Partially Finished** |
 | **[AWS Cloud Quest](phase-1-cloud-practitioner/02-aws-cloud-quest/)** | التطبيق العملي للخدمات في بيئة تفاعلية | ⏳ Pending |
 | **[Python وGit](phase-1-cloud-practitioner/03-python-git/)** | أساسيات البرمجة بلغة Python وإدارة النسخ | ⏳ Pending |
 | **[شهادة Cloud Practitioner (CLF-C02)](phase-1-cloud-practitioner/04-clf-c02-certificate/)** | الاستعداد لاجتياز اختبار الشهادة المعتمدة | ⏳ Pending |
