@@ -124,7 +124,7 @@ The speaker explains the following key topics:
 ***
 
 ### **5. Introduction to Cloud Computing**<br>
-This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/), and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/), provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/), and deploying applications using [`Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)<br><br>
+This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/), and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/), provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/), and deploying applications using [`AWS Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)<br><br>
 
 <p align="center">
   <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
