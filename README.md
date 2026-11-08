@@ -15,7 +15,7 @@
 | المسار / الموضوع | الوصف والمحتوى | الحالة |
 | :--- | :--- | :---: |
 | **[Linux](phase-2-cloud-engineer/07-linux/)** | إدارة أنظمة التشغيل، الصلاحيات، وBash Scripting | **Partially Finished** |
-| **Network Advanced**  |  |  |
+| **Network Advanced**  |  | ⏳ Pending |
 | **[Terraform/Git](phase-2-cloud-engineer/06-terraform/)** | البنية التحتية ككود (IaC)، لغة HCL، وإدارة الحالات | **Partially Finished** |
 | **Python** |  | ⏳ Pending |
 | **[شهادة Solutions Architect Associate](phase-2-cloud-engineer/08-saa-certificate/)** | تصميم معماريات مرنة وآمنة وفعالة على AWS | ⏳ Pending |
