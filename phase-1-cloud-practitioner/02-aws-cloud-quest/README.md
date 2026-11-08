@@ -48,7 +48,7 @@ For example:<br>
 
 ***
 
-### 4.
+### 4. Start Playing: AWS Cloud Quest
 
 <p align="center">
   <a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT" target="_blank">
