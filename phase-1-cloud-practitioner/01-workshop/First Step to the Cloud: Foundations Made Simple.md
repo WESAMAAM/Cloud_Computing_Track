@@ -100,7 +100,6 @@ To understand cloud computing, consider how different tech professionals use it 
 </div><br>
 <div align="center">
 
-
 > 💬 **Need Help or Want to Collaborate?**  
 > Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
 
