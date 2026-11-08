@@ -52,7 +52,7 @@
 ***
 ### Contents Detailed
 ### **1. What is Cloud Computing? | Amazon Web Services**<br>
-This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/) as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing
+This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/) as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing<br><br>
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
@@ -68,7 +68,7 @@ This video provides a great introductory overview of [`cloud computing`](https:/
 ***
 
 ### **2. Cloud Computing Explained**<br>
-This video explaining how it allows users to store and run applications over the internet instead of on local hardware
+This video explaining how it allows users to store and run applications over the internet instead of on local hardware<br><br>
 
 <p align="center">
   <a href="https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF" target="_blank">
@@ -124,7 +124,7 @@ The speaker explains the following key topics:
 ***
 
 ### **5. Introduction to Cloud Computing**<br>
-This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/), and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/), provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/), and deploying applications using [`Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)
+This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/), and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/), provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/), and deploying applications using [`Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)<br><br>
 
 <p align="center">
   <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
