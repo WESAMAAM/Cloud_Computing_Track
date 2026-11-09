@@ -1,6 +1,6 @@
 # AWS Cloud Quest: The Practical Gaming Experience
 
-Welcome to the core of Phase 1! This interactive guide is designed especially for developers and tech enthusiasts who want to transition from passive video learning to active, gamified cloud mastery using Amazon Web Services. Through immersive 3D role playing, real world challenges, and practical scenario solving, you will quickly build professional cloud skills while having fun. Dive in to level up your career!
+Welcome to the core of Phase 1! This interactive guide is designed especially for developers and tech enthusiasts who want to transition from passive video learning to active, gamified cloud mastery using Amazon Web Services, Through immersive 3D role playing, real world challenges, and practical scenario solving, you will quickly build professional cloud skills while having fun, Dive in to level up your career!
 
 ### What You Will Learn
 1. **Cloud Foundations Through Gaming:** Learn how to configure cloud resources, manage storage, and deploy applications inside an interactive virtual city environment
@@ -16,8 +16,8 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 ### Contents
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
-| 1 | [AWS Cloud Quest 2.0](#1-aws-cloud-quest-20--amazon-web-services) | introduces AWS Cloud Quest 2.0 as an interactive, role based learning platform on AWS Skill Builder | - |
-| 2 | [Cloud Practitioner Quest](#2-aws-cloud-quest--cloud-practitioner--amazon-web-services) | introduces AWS Cloud Quest: Cloud Practitioner as an interactive open world role playing game | - |
+| 1 | [AWS Cloud Quest 2.0](#1-aws-cloud-quest-20--amazon-web-services) | introduces AWS Cloud Quest 2.0 as an interactive, role based learning platform on AWS Skill Builder | 1:37 |
+| 2 | [Cloud Practitioner Quest](#2-aws-cloud-quest-cloud-practitioner--amazon-web-services) | introduces AWS Cloud Quest: Cloud Practitioner as an interactive open world role playing game | 1:12 |
 | 3 | [Why AWS Cloud Quest Matters?](#3-why-is-aws-cloud-quest-an-essential-part-of-your-journey) | explains why this 3D game format serves as the core and heart of practical learning in Phase 1 | - |
 | 4 | [Start Playing the Game](#4-start-playing-aws-cloud-quest) | provides direct access to launch your gameplay, community support links, and pacing guidance | 12:00:00 |
 
@@ -35,7 +35,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 
 <div align="center">
 
-> 📌 **Important Note:** <br> Playing through AWS Cloud Quest is `100% free` via AWS Skill Builder and takes about `12 hours` in total to complete at your own pace
+> 📌 **Important Note:** <br> All contents of this step are `100% free` and will take about `13 hours` in total to complete
 
 </div>
 
