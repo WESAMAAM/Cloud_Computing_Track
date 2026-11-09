@@ -42,7 +42,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 ***
 
 ### 1. AWS Cloud Quest 2.0 | Amazon Web Services
-This video introduces AWS Cloud Quest 2.0 as an interactive, role-based learning platform on AWS Skill Builder designed to help users transition from simply building cloud solutions to learning how to design them effectively<br><br>
+This video introduces AWS Cloud Quest 2.0 as an interactive, role-based learning platform on [`AWS Skill Builder`](https://aws.amazon.com/training/digital/) designed to help users transition from simply building cloud solutions to learning how to design them effectively<br><br>
 
 <p align="center">
   <a href="https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6" target="_blank">
@@ -74,7 +74,7 @@ Is there a more enjoyable way to learn than playing a game?
 This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges<br>
 
 For example:
-- you will fulfill client requests by configuring Amazon S3 buckets for secure storage
+- you will fulfill client requests by configuring [`Amazon S3`](https://aws.amazon.com/s3/?trk=aebc39a1-139c-43bb-8354-211ac811b83a&sc_channel=ps&ef_id=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB:G:s&gads_camp=23846236784&gads_ag=200318255990&gads_ad=808827666179&gads_kw=amazon%20s3&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9241351&gad_campaignid=23846236784&gbraid=0AAAAADjHtp8lvG7CLZIOhGMIXtmajrCSp&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB) buckets for secure storage
 - setting up Amazon EC2 instances to host applications
 - and designing auto scaling solutions to handle high web traffic<br>
 
