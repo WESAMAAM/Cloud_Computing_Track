@@ -82,7 +82,7 @@ For example:
 
  so don't worry, trust us on this
  
- ![](media/meme1.gif)
+ ![](/media/meme1.gif)
 
 ***
 
