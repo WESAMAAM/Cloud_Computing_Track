@@ -80,9 +80,11 @@ For example:
 
  This practical approach makes learning highly effective while serving as exceptional preparation for the official AWS Certified Cloud Practitioner exam witch is the end goal of this phase<br><br>
 
- so don't worry, trust us on this
- 
- ![](/media/meme1.gif)
+so don't worry, trust us on this
+
+ <div align="left">
+  <img src="/media/meme1.gif" width="300" alt="Screenshot">
+</div>
 
 ***
 
