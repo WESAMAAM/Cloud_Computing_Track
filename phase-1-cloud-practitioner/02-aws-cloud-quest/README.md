@@ -137,3 +137,19 @@ to learn how cloud networks and traffic routing work!
 ***
 
 ### References
+
+<sub>
+
+> • The digital training platform and skill builder resources are hosted on [AWS Skill Builder](https://aws.amazon.com/training/digital/); see `skill_builder` for details
+
+> • The video overview introducing AWS Cloud Quest 2.0 and platform features is available at [AWS Cloud Quest 2.0 Video](https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6); see `quest_video` for reference
+
+> • The video introduction covering the Cloud Practitioner game environment is featured in [Cloud Practitioner Video](https://youtu.be/lcmVvIeiFGc?si=QEEgNUavaFxo1BG6); check `practitioner_video` for details
+
+> • The official interactive 3D role playing learning platform is hosted on [AWS Cloud Quest Training](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT); see `cloud_quest` for access
+
+> • The cloud storage service used for secure client data configuration is detailed on [Amazon S3](https://aws.amazon.com/s3/); see `amazon_s3` for pricing and features
+
+> • Community collaboration, live support, and student discussions are coordinated through the [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2); check `community_chat` for peer assistance
+
+</sub>
