@@ -30,7 +30,7 @@ Is there a more enjoyable way to learn than playing a game?
 
 </div><br>
 
-This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, helping real businesses solve their cloud challenges<br>
+This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges<br>
 For example:<br> 
 
 - you will fulfill client requests by configuring Amazon S3 buckets for secure storage
@@ -48,26 +48,15 @@ For example:<br>
 
 ***
 
-### 4. Start Playing: AWS Cloud Quest
+### 4. Start Playing: AWS Cloud Quest<br><br>
 
-<p align="center">
-  <a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT" target="_blank">
-    <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="450" alt="AWS Cloud Quest: Cloud Practitioner">
-  </a>
-</p>
+<a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT" target="_blank">
+  <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="450" align="right" style="margin-left: 20px;" alt="AWS Cloud Quest Badge">
+</a>
+
+Play the game and learn at your own pace!<br><br>
+This step takes about 12 hours to complete in total<br> However, you do not need to finish all 12 hours in one sitting before moving forward. You can easily balance your time by progressing through the game while simultaneously advancing to the next steps in this roadmap
+
+<br clear="all">
 
 ***
-
-
-**الهدف:** تعلم أساسيات AWS بشكل تفاعلي (بصيغة لعبة)
-**المدة المتوقعة:** ... (نكتبها لاحقاً)
-**التكلفة:** (نتأكد من الموقع الرسمي)
-
-## وش بيستفيد الطالب
-بعد إنهاء هذه الخطوة، يكون عنده اطلاع جيد على أساسيات الكلاود بشكل تطبيقي.
-
-## المصادر
-- (نضيف رابط AWS Cloud Quest الرسمي هنا)
-
-## ملاحظات
-- نتأكد إن اللعبة متاحة حالياً وشروط التسجيل
