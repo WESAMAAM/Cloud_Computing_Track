@@ -1,3 +1,44 @@
+# AWS Cloud Quest: The Practical Gaming Experience
+
+Welcome to the core of Phase 1! This interactive guide is designed especially for developers and tech enthusiasts who want to transition from passive video learning to active, gamified cloud mastery using Amazon Web Services. Through immersive 3D role playing, real world challenges, and practical scenario solving, you will quickly build professional cloud skills while having fun. Dive in to level up your career!
+
+### What You Will Learn
+1. **Cloud Foundations Through Gaming:** Learn how to configure cloud resources, manage storage, and deploy applications inside an interactive virtual city environment
+2. **Core AWS Services:** Gain hands on experience with essential tools:
+   * **Amazon S3:** Configuring secure cloud storage buckets for client data
+   * **Amazon EC2:** Launching and managing virtual servers to host live applications
+   * **Auto Scaling:** Designing resilient architectures to handle high web traffic dynamically
+   * etc...
+3. **Practical Problem Solving:** Complete real world technical scenarios that prepare you directly for professional cloud engineering tasks<br><br>
+
+***
+
+### Contents
+| # | Title | Description | Duration |
+| :--- | :--- | :--- | :--- |
+| 1 | [AWS Cloud Quest 2.0](#1-aws-cloud-quest-20--amazon-web-services) | introduces AWS Cloud Quest 2.0 as an interactive, role based learning platform on AWS Skill Builder | - |
+| 2 | [Cloud Practitioner Quest](#2-aws-cloud-quest--cloud-practitioner--amazon-web-services) | introduces AWS Cloud Quest: Cloud Practitioner as an interactive open world role playing game | - |
+| 3 | [Why AWS Cloud Quest Matters?](#3-why-is-aws-cloud-quest-an-essential-part-of-your-journey) | explains why this 3D game format serves as the core and heart of practical learning in Phase 1 | - |
+| 4 | [Start Playing the Game](#4-start-playing-aws-cloud-quest) | provides direct access to launch your gameplay, community support links, and pacing guidance | 12:00:00 |
+
+<p align="center">
+  <a href="https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6" target="_blank">
+    <img src="/media/AWSCloudQuest2.0.jpg" width="249" style="margin: 10px;" alt="AWS Cloud Quest 2.0 | Amazon Web Services">
+  </a>
+  <a href="https://youtu.be/lcmVvIeiFGc?si=QEEgNUavaFxo1BG6" target="_blank">
+    <img src="/media/AWSCloudQuestCloudPractitioner.jpg" width="249" style="margin: 10px;" alt="AWS Cloud Quest - Cloud Practitioner | Amazon Web Services">
+  </a>
+  <a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT" target="_blank">
+    <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="150" style="margin: 10px;" alt="AWS Cloud Quest: Cloud Practitioner">
+  </a>
+</p>
+
+<div align="center">
+
+> 📌 **Important Note:** <br> Playing through AWS Cloud Quest is `100% free` via AWS Skill Builder and takes about `12 hours` in total to complete at your own pace
+
+</div>
+
 ***
 
 ### 1. AWS Cloud Quest 2.0 | Amazon Web Services
@@ -39,13 +80,6 @@ For example:
 
  This practical approach makes learning highly effective while serving as exceptional preparation for the official AWS Certified Cloud Practitioner exam witch is the end goal of this phase<br><br>
 
- <div align="center">
-
-> 💬 **Need Help or Want to Collaborate?**  
-> Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
-
-</div>
-
 ***
 
 ### 4. Start Playing: AWS Cloud Quest<br><br>
@@ -54,9 +88,52 @@ For example:
   <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="450" align="right" style="margin-left: 20px;" alt="AWS Cloud Quest Badge">
 </a>
 
-Play the game and learn at your own pace!<br><br>
-This step takes about 12 hours to complete in total<br> However, you do not need to finish all 12 hours in one sitting before moving forward. You can easily balance your time by progressing through the game while simultaneously advancing to the next steps in this roadmap
+This game specifically focuses on the Cloud Practitioner role, helping you build core practical skills<br>
+
+If you face any challenge or have questions while playing, we strongly recommend joining our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get support and participate in hands on cloud projects with fellow students!<br>
+
+Additionally, if you get stuck on any specific quest, searching on social media platforms or asking AI tools can quickly help you overcome the obstacle<br>
+
+The game takes about 12 hours in total to complete<br>
+However, you do not need to finish all 12 hours in one sitting before moving forward, You can easily balance your time by progressing through the game while simultaneously advancing to the next steps in this roadmap<br>
+
+Play the game and learn at your own pace, enjoy!
 
 <br clear="all">
 
 ***
+
+<div align="center">
+
+We recommend continuing to the next step while playing the game! This keeps your momentum going and allows you to learn theory alongside your practical gameplay.
+
+</div>
+
+### What Have You Learned
+
+After completing this part, you have learned:
+
+* Understand the core concepts of cloud computing and virtualized environments
+* Gain practical experience with essential AWS services through interactive hands on challenges
+* Prepare effectively for foundational cloud certifications such as the AWS Certified Cloud Practitioner
+* Solve real world technical scenarios in an engaging 3D gaming environment<br><br>
+
+<div align="center">
+
+Keep this momentum going as you move forward to the **Next Step: Networking Fundamentals**<br>
+to learn how cloud networks and traffic routing work!
+
+</div>
+
+<br>
+
+<div align="center">
+
+> ⭐ **Enjoying the Content?**  
+> If you find this cloud computing roadmap, phase and current step helpful, please don't forget to **give this repository a star** and share it with other students so everyone can benefit!
+
+</div>
+
+***
+
+### References
