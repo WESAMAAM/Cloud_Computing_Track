@@ -17,7 +17,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
 | 1 | [AWS Cloud Quest 2.0](#1-aws-cloud-quest-20--amazon-web-services) | introduces AWS Cloud Quest 2.0 as an interactive, role based learning platform on AWS Skill Builder | 1:37 |
-| 2 | [Cloud Practitioner Quest](#2-aws-cloud-quest-cloud-practitioner--amazon-web-services) | introduces AWS Cloud Quest: Cloud Practitioner as an interactive open world role playing game | 1:12 |
+| 2 | [Cloud Practitioner Quest](#item2) | introduces AWS Cloud Quest: Cloud Practitioner as an interactive open world role playing game | 1:12 |
 | 3 | [Why AWS Cloud Quest Matters?](#3-why-is-aws-cloud-quest-an-essential-part-of-your-journey) | explains why this 3D game format serves as the core and heart of practical learning in Phase 1 | - |
 | 4 | [Start Playing the Game](#4-start-playing-aws-cloud-quest) | provides direct access to launch your gameplay, community support links, and pacing guidance | 12:00:00 |
 
@@ -52,7 +52,7 @@ AWS Cloud Quest 2.0 | Amazon Web Services">
 </p>
 
 ***
-
+<a id="item2"></a>
 ### 2. AWS Cloud Quest - Cloud Practitioner | Amazon Web Services
 This video introduces AWS Cloud Quest: Cloud Practitioner as an interactive, open-world role-playing game designed to help users build practical Amazon Web Services skills in an engaging environment<br><br>
 
