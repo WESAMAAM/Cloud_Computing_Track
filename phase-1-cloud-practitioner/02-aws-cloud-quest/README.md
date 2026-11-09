@@ -1,6 +1,6 @@
 # AWS Cloud Quest: The Practical Gaming Experience
 
-Welcome to the core of Phase 1! This interactive guide is designed especially for developers and tech enthusiasts who want to transition from passive video learning to active, gamified cloud mastery using Amazon Web Services, Through immersive 3D role playing, real world challenges, and practical scenario solving, you will quickly build professional cloud skills while having fun, Dive in to level up your career!
+Welcome to the core of Phase 1! This interactive guide is designed especially for beginners, developers and tech enthusiasts who want to transition from passive video learning to active, gamified cloud mastery using Amazon Web Services, Through immersive 3D role playing, real world challenges, and practical scenario solving, you will quickly build professional cloud skills while having fun, Dive in to level up your career!
 
 ### What You Will Learn
 1. **Cloud Foundations Through Gaming:** Learn how to configure cloud resources, manage storage, and deploy applications inside an interactive virtual city environment
