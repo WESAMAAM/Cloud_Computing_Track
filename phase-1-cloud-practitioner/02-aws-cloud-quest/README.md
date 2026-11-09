@@ -30,9 +30,9 @@ Is there a more enjoyable way to learn than playing a game?
 
 </div><br>
 
-This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges<br>
-For example:<br> 
+This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges<br><br>
 
+For example:
 - you will fulfill client requests by configuring Amazon S3 buckets for secure storage
 - setting up Amazon EC2 instances to host applications
 - and designing auto scaling solutions to handle high web traffic<br>
