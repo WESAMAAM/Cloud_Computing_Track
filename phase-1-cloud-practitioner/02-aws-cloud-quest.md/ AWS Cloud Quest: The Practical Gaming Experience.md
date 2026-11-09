@@ -29,7 +29,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
     <img src="/media/AWSCloudQuestCloudPractitioner.jpg" width="249" style="margin: 10px;" alt="AWS Cloud Quest - Cloud Practitioner | Amazon Web Services">
   </a>
   <a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT" target="_blank">
-    <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="150" style="margin: 10px;" alt="AWS Cloud Quest: Cloud Practitioner">
+    <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="149" style="margin: 10px;" alt="AWS Cloud Quest: Cloud Practitioner">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 </div>
 
 ***
-
+### Content Detailed
 ### 1. AWS Cloud Quest 2.0 | Amazon Web Services
 This video introduces AWS Cloud Quest 2.0 as an interactive, role-based learning platform on [`AWS Skill Builder`](https://aws.amazon.com/training/digital/) designed to help users transition from simply building cloud solutions to learning how to design them effectively<br><br>
 
