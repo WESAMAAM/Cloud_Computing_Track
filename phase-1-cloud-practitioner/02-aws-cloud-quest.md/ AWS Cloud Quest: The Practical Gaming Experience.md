@@ -101,7 +101,7 @@ If you face any challenge or have questions while playing, we strongly recommend
 Additionally, if you get stuck on any specific quest, searching on social media platforms or asking AI tools can quickly help you overcome the obstacle<br>
 
 The game takes about 12 hours in total to complete<br>
-However, you do not need to finish all 12 hours in one sitting before moving forward, You can easily balance your time by progressing through the game while simultaneously advancing to the next steps in this roadmap<br>
+However, you do not need to finish all 12 hours in one sitting before moving forward, You can easily balance your time by progressing through the game while simultaneously advancing to the next step in this Phase<br>
 
 Play the game and learn at your own pace, enjoy!
 
