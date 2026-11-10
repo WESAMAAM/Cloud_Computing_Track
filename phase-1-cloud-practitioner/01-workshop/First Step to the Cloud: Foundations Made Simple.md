@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
+  <img src="media/Screenshot%202026-11-06%20163058.png" width="300" style="margin-left: 20px; pointer-events: none;" alt="Screenshot">
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
