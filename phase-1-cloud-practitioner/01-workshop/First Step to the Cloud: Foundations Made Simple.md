@@ -1,4 +1,10 @@
 <div align="left">
+  <a href="javascript:void(0)" style="cursor: default;">
+    <img src="media/Screenshot%202026-11-06%20163058.png" width="300" style="margin-left: 20px;" alt="Screenshot">
+  </a>
+</div>
+
+<div align="left">
   <object data="media/Screenshot%202026-11-06%20163058.png" type="image/png" width="300" style="margin-left: 20px;">
     <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
   </object>
