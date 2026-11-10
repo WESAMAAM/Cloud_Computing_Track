@@ -1,8 +1,3 @@
-<div align="left" style="position: relative; display: inline-block;">
-  <img src="media/Screenshot%202026-11-06%20163058.png" width="300" style="margin-left: 20px;" alt="Screenshot">
-  <div style="position: absolute; top: 0; left: 20px; right: 0; bottom: 0; background: transparent;"></div>
-</div>
-
 <div align="left">
   <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
 </div>
