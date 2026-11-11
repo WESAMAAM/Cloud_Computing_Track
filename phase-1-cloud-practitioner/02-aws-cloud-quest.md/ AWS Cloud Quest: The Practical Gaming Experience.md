@@ -126,7 +126,7 @@ After completing this part, you have learned:
 
 <div align="center">
 
-Keep this momentum going as you move forward to the **Next Step: Networking Fundamentals**<br>
+Keep this momentum going as you move forward to the **[Next Step: Networking Fundamentals: Cloud Networking](https://github.com/WESAMAAM/Cloud_Computing_Track/edit/main/phase-1-cloud-practitioner/03-networking%20/readme.md)**<br>
 to learn how cloud networks and traffic routing work!
 
 </div>
