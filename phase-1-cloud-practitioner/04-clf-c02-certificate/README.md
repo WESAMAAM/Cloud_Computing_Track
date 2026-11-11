@@ -1,18 +1,27 @@
-# AWS Certified Cloud Practitioner (CLF-C02)
+***
 
-**الهدف:** الحصول على شهادة AWS التأسيسية، وهي ختام المرحلة الأولى
+### 1. What is AWS Certified Cloud Practitioner (CLF-C02)
+The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.  This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
 
-## طرق الحصول على خصم 100% للاختبار
+***
 
-### الطريق الأول: منارة (Manara)
-إكمال (أو تخطي) كورس Intro to Cloud Computing للحصول على الخصم.
+### 2. AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02) - Pass the Exam!
+This video serves as a comprehensive preparation course for the AWS Certified Cloud Practitioner (CLF-C02) exam. It covers a vast range of foundational cloud concepts, AWS services, and operational frameworks<br>
 
-### الطريق الثاني: AWS Premium
-تفعيل العضوية والحصول على قسيمة بقيمة 100 دولار للاختبار.
+This video has covered everything that is needed for the exam, in fact it has a lot more! It provides deep dives into core security compliance models, billing structure, and hands on architecture walkthroughs, making it an ideal all in one resource for mastering cloud fundamentals<br>
 
-## الصفحة الرسمية للشهادة
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+We guarantee that after fully completing this video, you will be completely ready to pass the exam with confidence<br><br>
 
-## ملاحظات
-- شروط الخصم ومواعيد انتهائه تتغير، يرجى مراجعتها قبل التسجيل
-- رقم نسخة الاختبار (CLF-C02) قد يتغير مستقبلاً، تأكد من الموقع الرسمي
+***
+
+### 3. 
+
+***
+
+### 4. How to Obtained the Certification for *FREE*
+
+#### 1. AWS Builder Center
+
+#### 2. Manara
+
+***
