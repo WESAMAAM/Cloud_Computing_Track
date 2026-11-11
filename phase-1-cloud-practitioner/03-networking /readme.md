@@ -17,8 +17,8 @@ This introductory guide is designed especially to understand how modern cloud ne
 | # | Title | Description | Duration |
 | :--- | :--- | :--- | :--- |
 | 1 | [](#item1) |   | - |
-| 2 | [AWS Networking Basics For Programmers](#item2) | serves as a practical guide for programmers looking to understand and build secure network architectures from scratch | 30:00 |
-| 3 | [AWS Networking](#item3) | a comprehensive multi part series bridging traditional networking concepts with modern cloud implementation | 2:00:00 |
+| 2 | [AWS Networking Basics For Programmers](#item2) | serves as a practical guide for programmers looking to understand and build secure network architectures from scratch | 27:13 |
+| 3 | [AWS Networking](#item3) | a comprehensive multi part series bridging traditional networking concepts with modern cloud implementation | 2:58:15 |
 
 <p align="center">
   <a href="https://youtu.be/2doSoMN2xvI?si=oK_LPycgJdAacqZ8" target="_blank">
