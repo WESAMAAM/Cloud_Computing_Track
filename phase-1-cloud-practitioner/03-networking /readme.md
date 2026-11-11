@@ -31,12 +31,12 @@ This introductory guide is designed especially to understand how modern cloud ne
 
 <div align="center">
 
-> 📌 **Important Note:** <br> All contents of this step are `100% free` and will take about `3 hours` in total to complete
+> 📌 **Important Note:** <br> All contents of this step are `100% free` and will take about `4 hours` in total to complete
 
 </div>
 
 ***
-
+### Contents Detailed
 <a id="item1"></a>
 ### 1. Abdulrahman do the paragraph here
 
