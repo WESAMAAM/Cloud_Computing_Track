@@ -11,6 +11,13 @@ This introductory guide is designed especially to understand how modern cloud ne
    * etc...
 3. **Practical Implementation:** Watch hands on demonstrations on building secure network architectures from scratch using Amazon Web Services<br><br>
 
+<div align="center">
+
+> 💡 **Stuck or Want to Build Together?**  
+> You don't have to learn alone! Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get quick support, ask questions, and build exciting hands on cloud projects with ambitious fellow students!
+
+</div>
+
 ***
 
 ### Contents
@@ -60,16 +67,11 @@ This playlist is a twelve part series titled AWS Networking created by Digital C
 
 <a href="https://www.youtube.com/watch?v=nKrc3FAIYHU&list=PLzde74P_a04d6M7U-3_r4EJHTBg1UJfzT" target="_blank">
   <img src="/media/CloudNetworking.jpg" width="450" align="right" style="margin-left: 20px;" alt="AWS Networking">
-</a>
+</a><br>
 
-By following this curated series, you will gain deep insights into how data travels across cloud infrastructure, how to configure gateways, and how to design robust network topologies for production applications<br><br>
+By following this curated series, you will gain deep insights into how data travels across cloud infrastructure, how to configure gateways, and how to design robust network topologies for production applications<br>
 
-<div align="center">
-
-> 💬 **Need Help or Want to Collaborate?**  
-> Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
-
-</div>
+The total duration of this playlist is about 3 hours. We strongly recommend completing the entire series before moving on to the next step, as it provides the core networking foundation required for the upcoming step!
 
 <br clear="all">
 
