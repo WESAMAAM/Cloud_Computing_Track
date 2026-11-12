@@ -7,7 +7,7 @@
 | :--- | :--- | :---: |
 | **[ورشة عمل: مدخل إلى الحوسبة السحابية](https://github.com/WESAMAAM/Cloud_Computing_Track/blob/main/phase-1-cloud-practitioner/01-workshop/First%20Step%20to%20the%20Cloud%3A%20Foundations%20Made%20Simple.md)** | مفاهيم الحوسبة السحابية الأساسية ونماذج الخدمة | **Partially Finished** |
 | **[AWS Cloud Quest](https://github.com/WESAMAAM/Cloud_Computing_Track/blob/main/phase-1-cloud-practitioner/02-aws-cloud-quest.md/%20AWS%20Cloud%20Quest%3A%20The%20Practical%20Gaming%20Experience.md)** | التطبيق العملي للخدمات في بيئة تفاعلية | **Partially Finished** |
-| **[Network Fundamentals](phase-1-cloud-practitioner/03-python-git/)** |  | **Partially Finished** |
+| **[Network Fundamentals](https://github.com/WESAMAAM/Cloud_Computing_Track/blob/main/phase-1-cloud-practitioner/03-networking%20.md%20/Networking%20Fundamentals%3A%20Cloud%20Networking.md)** |  | **Partially Finished** |
 | **[شهادة Cloud Practitioner (CLF-C02)](https://github.com/WESAMAAM/Cloud_Computing_Track/blob/main/phase-1-cloud-practitioner/04-clf-c02-certificate.md%20/AWS%20Certified%20Cloud%20Practitioner%20(CLF%20C02).md)** | الاستعداد لاجتياز اختبار الشهادة المعتمدة | **Partially Finished** |
 
 ### المرحلة الثانية: مهندس حوسبة سحابية
