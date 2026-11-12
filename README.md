@@ -6,6 +6,12 @@
   
 > 📌 **Platform Focus:**<br> This roadmap primarily focuses on [**Amazon Web Services (AWS)**](https://aws.amazon.com/what-is-aws/) because it is the leading cloud computing provider in the industry, making it the ideal foundation for building professional and practical cloud skills
 </div>
+<div align="center">
+
+> 💡 **Tip:** Click on the image to watch the video content.
+
+</div>
+
 
 
 ### المرحلة الأولى: مستخدم للحوسبة السحابية ---------- اذا الرابط ما اشتغل خش من الfolders فوق --------------
