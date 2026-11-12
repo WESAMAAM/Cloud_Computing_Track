@@ -131,8 +131,9 @@ This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.lin
 
 <div align="center">
   
-# Congratulations! <br>
-on successfully completing this step! You now have a solid understanding of cloud computing foundations and how cloud skills apply across different tech fields
+# Good Job! <br>
+on successfully completing this step! You now have a solid understanding of cloud computing foundations<br>
+and how cloud skills apply across different tech fields
 
 </div>
 
