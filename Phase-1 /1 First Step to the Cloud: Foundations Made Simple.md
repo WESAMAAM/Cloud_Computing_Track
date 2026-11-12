@@ -55,11 +55,6 @@ This video provides a great introductory overview of [`cloud computing`](https:/
     <img src="/media/WhatIsCloudComputingAmazonWebServices.jpg" width="450" alt="What is Cloud Computing? | Amazon Web Services">
   </a>
 </p>
-<div align="center">
-
-> 💡 **Tip:** Click on the image to watch the video content.
-
-</div>
 
 ***
 
