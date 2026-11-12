@@ -14,11 +14,6 @@ Welcome to the first step of your cloud computing journey! This introductory gui
    * etc...
 3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk<br><br>
 
-<div align="center">
-  
-> 📌 **Platform Focus:**<br> This roadmap primarily focuses on [**Amazon Web Services (AWS)**](https://aws.amazon.com/what-is-aws/) because it is the leading cloud computing provider in the industry, making it the ideal foundation for building professional and practical cloud skills
-</div>
-
 ***
 
 ### Contents
