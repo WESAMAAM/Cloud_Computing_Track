@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="media/Screenshot%202026-11-06%20163058.png" width="300" alt="Screenshot">
+  <img src="/media/meme2.png" width="300" alt="meme2">
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
@@ -32,16 +32,16 @@ Welcome to the first step of your cloud computing journey! This introductory gui
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
-    <img src="media/What%20is%20Cloud%20Computing%20%20Amazon%20Web%20Services.jpg" width="249" style="margin: 10px;" alt="What is Cloud Computing? | Amazon Web Services">
+    <img src="/media/WhatIsCloudComputingAmazonWebServices.jpg" width="249" style="margin: 10px;" alt="What is Cloud Computing? | Amazon Web Services">
   </a>
   <a href="https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF" target="_blank">
-    <img src="media/Cloud%20Computing%20Explained.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained">
+    <img src="/media/CloudComputingExplained.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained">
   </a>
   <a href="https://youtu.be/ZaA0kNm18pE?si=zYLqWOJHSE4zWfpJ" target="_blank">
-    <img src="media/Cloud%20Computing%20Explained%20The%20Most%20Important%20Concepts%20To%20Know.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained: The Most Important Concepts To Know">
+    <img src="/media/CloudComputingExplainedTheMostImportantConceptsToKnow.jpg" width="249" style="margin: 10px;" alt="Cloud Computing Explained: The Most Important Concepts To Know">
   </a>
   <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
-    <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="249" style="margin: 10px;" alt="Introduction to Cloud Computing">
+    <img src="/media/IntroductionToCloudComputingWorkshop.jpg" width="249" style="margin: 10px;" alt="Introduction to Cloud Computing Workshop">
   </a>
 </p>
 <div align="center">
@@ -57,7 +57,7 @@ This video provides a great introductory overview of [`cloud computing`](https:/
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
-    <img src="media/What%20is%20Cloud%20Computing%20%20Amazon%20Web%20Services.jpg" width="450" alt="What is Cloud Computing? | Amazon Web Services">
+    <img src="/media/WhatIsCloudComputingAmazonWebServices.jpg" width="450" alt="What is Cloud Computing? | Amazon Web Services">
   </a>
 </p>
 <div align="center">
@@ -73,7 +73,7 @@ This video explaining how it allows users to store and run applications over the
 
 <p align="center">
   <a href="https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF" target="_blank">
-    <img src="media/Cloud%20Computing%20Explained.jpg" width="450" alt="Cloud Computing Explained">
+    <img src="/media/CloudComputingExplained.jpg" width="450" alt="Cloud Computing Explained">
   </a>
 </p>
 
@@ -117,7 +117,7 @@ The speaker explains the following key topics:
 
 <p align="center">
   <a href="https://youtu.be/ZaA0kNm18pE?si=zYLqWOJHSE4zWfpJ" target="_blank">
-    <img src="media/Cloud%20Computing%20Explained%20The%20Most%20Important%20Concepts%20To%20Know.jpg" width="450" alt="Cloud Computing Explained: The Most Important Concepts To Know">
+    <img src="/media/CloudComputingExplainedTheMostImportantConceptsToKnow.jpg" width="450" alt="Cloud Computing Explained: The Most Important Concepts To Know">
   </a>
 </p>
 
@@ -128,7 +128,7 @@ This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.lin
 
 <p align="center">
   <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
-    <img src="media/ورشة%20عمل%20بعنوان%20مدخل%20الى%20الحوسبة%20السحابية.jpg" width="450" alt="Introduction to Cloud Computing">
+    <img src="/media/IntroductionToCloudComputingWorkshop.jpg" width="450" alt="Introduction to Cloud Computing Workshop">
   </a>
 </p>
 
@@ -156,7 +156,7 @@ An interactive 3D roleplaying game built by AWS to help you learn practical clou
 </div><br>
 
 <div align="right">
-  <img src="media/yfr8ceuufue91.jpg" width="400" alt="Screenshot">
+  <img src="/media/meme3.jpg" width="400" alt="meme3">
 </div>
 
 <div align="center"><br>
