@@ -3,27 +3,30 @@
 </div>
 
 # First Step to the Cloud: Foundations Made Simple
-Welcome to the first step of your cloud computing journey! This introductory guide is designed especially for beginners and tech enthusiasts who want to understand how modern cloud systems work using Amazon Web Services, Through simple explanations, clear core concepts, and practical video lessons, you will quickly learn how cloud technology replaces traditional local computers with flexible, on demand resources, Dive in to build a strong, practical foundation for your tech career!
+
+Welcome to the first step of your cloud computing journey! This introductory guide is designed especially for beginners and tech enthusiasts who want to understand how modern cloud systems work using Amazon Web Services[^1], Through simple explanations, clear core concepts, and practical video lessons, you will quickly learn how cloud technology replaces traditional local computers with flexible, on demand resources, Dive in to build a strong, practical foundation for your tech career!
 
 ### What You Will Learn
-1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with [`pay as you go`](https://aws.amazon.com/pricing/) pricing instead of using local computers
-2. **Important Concepts:** Understand key terms easily:
-   * **Scaling:** Changing the size of resources when needed
-   * **Load Balancing:** Spreading network traffic evenly
-   * **Autoscaling:** Automatically growing or shrinking resources based on user demand
-   * etc...
-3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2 and deploying applications using Elastic Beanstalk<br><br>
 
-***
+1. **Cloud Computing Basics:** Learn how to use IT resources like servers, storage, and databases over the internet with [`pay as you go`](https://aws.amazon.com/pricing/)[^3] pricing instead of using local computers[^2]
+2. **Important Concepts:** Understand key terms easily:
+   - **Scaling:** Changing the size of resources when needed
+   - **Load Balancing:** Spreading network traffic evenly
+   - **Autoscaling:** Automatically growing or shrinking resources based on user demand
+   - etc...
+3. **Practical Skills:** Watch demonstrations on launching virtual servers using Amazon EC2[^4] and deploying applications using Elastic Beanstalk[^4]<br><br>
+
+---
 
 ### Contents
-| # | Title | Description | Duration |
-| :--- | :--- | :--- | :--- |
-| 1 | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services) | a great introductory overview of cloud computing from Amazon Web Services | 3:12 |
-| 2 | [Cloud Computing Explained](#2-cloud-computing-explained) | explaining how cloud allows users to store and run applications over the internet | 8:37 |
-| 3 | [Why Cloud Computing Matters Across Tech Roles?](#3-why-cloud-computing-matters-across-tech-roles) | explaining how different tech professionals use it in practice | - |
-| 4 | [The Most Important Concepts To Know](#4-cloud-computing-explained-the-most-important-concepts-to-know) | a comprehensive overview of essential cloud computing concepts | 45:32 |
-| 5 | [Introduction to Cloud Computing](#5-introduction-to-cloud-computing) | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15 |
+
+| #   | Title                                                                                                   | Description                                                                                                                                                                                                                               | Duration |
+| :-- | :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| 1   | [What is Cloud Computing?](#1-what-is-cloud-computing--amazon-web-services)                             | a great introductory overview of cloud computing from Amazon Web Services                                                                                                                                                                 | 3:12     |
+| 2   | [Cloud Computing Explained](#2-cloud-computing-explained)                                               | explaining how cloud allows users to store and run applications over the internet                                                                                                                                                         | 8:37     |
+| 3   | [Why Cloud Computing Matters Across Tech Roles?](#3-why-cloud-computing-matters-across-tech-roles)      | explaining how different tech professionals use it in practice                                                                                                                                                                            | -        |
+| 4   | [The Most Important Concepts To Know](#4-cloud-computing-explained-the-most-important-concepts-to-know) | a comprehensive overview of essential cloud computing concepts                                                                                                                                                                            | 45:32    |
+| 5   | [Introduction to Cloud Computing](#5-introduction-to-cloud-computing)                                   | hosted by AWS Student Builder Group at UB, and presented by the club leader Ali Al-Abdullah, provides a foundational overview of cloud technology, and offers practical demonstrations and deploying applications using Elastic Beanstalk | 1:46:15  |
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
@@ -45,10 +48,13 @@ Welcome to the first step of your cloud computing journey! This introductory gui
 
 </div>
 
-***
+---
+
 ### Contents Detailed
+
 ### **1. What is Cloud Computing? | Amazon Web Services**<br>
-This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/) as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing<br><br>
+
+This video provides a great introductory overview of [`cloud computing`](https://aws.amazon.com/what-is-cloud-computing/)[^2] as the on-demand delivery of IT resources (such as compute, storage, and databases) via the internet with pay-as-you-go pricing[^7]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/mxT233EdY5c?si=FBs1J9NqBEzQWKHW" target="_blank">
@@ -56,10 +62,11 @@ This video provides a great introductory overview of [`cloud computing`](https:/
   </a>
 </p>
 
-***
+---
 
 ### **2. Cloud Computing Explained**<br>
-This video explaining how it allows users to store and run applications over the internet instead of on local hardware<br><br>
+
+This video explaining how it allows users to store and run applications over the internet instead of on local hardware[^8]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/_a6us8kaq0g?si=m48CFsIOc1DWS6eF" target="_blank">
@@ -67,7 +74,7 @@ This video explaining how it allows users to store and run applications over the
   </a>
 </p>
 
-***
+---
 
 <div align="center">
   
@@ -76,11 +83,11 @@ To understand cloud computing, consider how different tech professionals use it 
 
 </div><br>
 
-- **Web Developers:**  Publish and deploy websites and web applications online using cloud providers like AWS<br>
-- **AI Engineers:**  Rent powerful cloud compute resources to train massive [`machine learning`](https://aws.amazon.com/what-is/machine-learning/) models instead of using local hardware<br>
+- **Web Developers:** Publish and deploy websites and web applications online using cloud providers like AWS<br>
+- **AI Engineers:** Rent powerful cloud compute resources to train massive [`machine learning`](https://aws.amazon.com/what-is/machine-learning/)[^5] models instead of using local hardware<br>
 - **Data Engineers:** Build scalable cloud databases to manage, store, and process billions or trillions of data records<br>
 - **Game Developers:** Host multiplayer servers that handle thousands of active players simultaneously without crashing<br>
-- **Cyber Security Specialists:**  Set up isolated cloud security environments for testing and monitoring threats in real time<br>
+- **Cyber Security Specialists:** Set up isolated cloud security environments for testing and monitoring threats in real time<br>
 - etc...
 
 <div align="center"><br>
@@ -91,15 +98,17 @@ To understand cloud computing, consider how different tech professionals use it 
 <div align="center">
 
 > 💬 **Need Help or Want to Collaborate?**  
-> Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
+> Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2)[^11] to get help if you encounter any issues and to collaborate on cloud projects with fellow students!
 
 </div>
 
-***
+---
 
 ### **4. Cloud Computing Explained: The Most Important Concepts To Know**<br>
-This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners<br>
-The speaker explains the following key topics: 
+
+This video provides a comprehensive overview of essential cloud computing concepts, making it ideal for beginners[^9]<br>
+The speaker explains the following key topics:
+
 - Scaling
 - Load Balancing
 - Autoscaling
@@ -111,10 +120,11 @@ The speaker explains the following key topics:
   </a>
 </p>
 
-***
+---
 
 ### **5. Introduction to Cloud Computing**<br>
-This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/), and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/), provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/), and deploying applications using [`AWS Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)<br><br>
+
+This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.linkedin.com/company/asbg-ub/home/)[^6], and presented by the club leader [`Ali Al-Abdullah`](https://ali-hussain.sa/)[^6], provides a foundational overview of cloud technology. It defines cloud computing as the rental of technical resources like servers and databases over the internet, and offers practical demonstrations on launching virtual servers via [`Amazon EC2`](https://aws.amazon.com/ec2/)[^4], and deploying applications using [`AWS Elastic Beanstalk`](https://aws.amazon.com/elasticbeanstalk/)[^4][^10]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/KnlXTgvUO2Y?si=ZFLmMDzlQ61_fFWv" target="_blank">
@@ -122,7 +132,7 @@ This workshop, was hosted by [`AWS Student Builder Group at UB`](https://www.lin
   </a>
 </p>
 
-***
+---
 
 <div align="center">
   
@@ -133,13 +143,15 @@ and how cloud skills apply across different tech fields
 </div>
 
 ### What Have You Learned
-After finishing this phase, you learned:
-* Understand the difference between local computers and cloud environments
-* Know the basics of setting up and managing cloud servers
-* Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner
-* Take your personal programming projects from your local device to the live internet<br><br>
 
-<div align="center">
+After finishing this phase, you learned:
+
+- Understand the difference between local computers and cloud environments
+- Know the basics of setting up and managing cloud servers
+- Build a strong base for beginner AWS certifications like the AWS Certified Cloud Practitioner
+- Take your personal programming projects from your local device to the live internet<br><br>
+
+<div align="center"> 
   
 Keep this momentum going as you move forward to the [**Next Step: AWS Cloud Quest (Cloud Practitioner)**](https://github.com/WESAMAAM/Cloud_Computing_Track/tree/main/phase-1-cloud-practitioner/02-aws-cloud-quest)
 An interactive 3D roleplaying game built by AWS to help you learn practical cloud concepts by solving real world technical challenges in a fun and hands on environment
@@ -157,32 +169,28 @@ An interactive 3D roleplaying game built by AWS to help you learn practical clou
 
 </div>
 
-***
+---
 
 ### References
 
-<sub>
+[^1]: The foundational introduction to cloud services and global infrastructure is detailed on [Amazon Web Services](https://aws.amazon.com/what-is-aws/)
 
-> • The foundational introduction to cloud services and global infrastructure is detailed on [Amazon Web Services](https://aws.amazon.com/what-is-aws/)
+[^2]: The definition of cloud computing as the on-demand delivery of IT resources is provided by [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/); check `core-concepts` for scalability and architecture
 
-> • The definition of cloud computing as the on-demand delivery of IT resources is provided by [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/); check `core-concepts` for scalability and architecture
+[^3]: Comprehensive cost management and resource scaling options are covered under [AWS Pricing](https://aws.amazon.com/pricing/); see the `cloud-pricing` model for pay-as-you-go details
 
-> • Comprehensive cost management and resource scaling options are covered under [AWS Pricing](https://aws.amazon.com/pricing/); see the `cloud-pricing` model for pay-as-you-go details
+[^4]: Platform-as-a-Service (PaaS) deployment and automated application scaling are managed via `aws-elastic-beanstalk`; details are available on [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [Amazon EC2](https://aws.amazon.com/ec2/)
 
-> • Platform-as-a-Service (PaaS) deployment and automated application scaling are managed via `aws-elastic-beanstalk`; details are available on [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [Amazon EC2](https://aws.amazon.com/ec2/)
+[^5]: Scalable compute environments for training machine learning models are cataloged under [AWS Machine Learning](https://aws.amazon.com/what-is/machine-learning/); see `ml-infrastructure` for GPU instance types
 
-> • Scalable compute environments for training machine learning models are cataloged under [AWS Machine Learning](https://aws.amazon.com/what-is/machine-learning/); see `ml-infrastructure` for GPU instance types
+[^6]: Community initiatives and workshop sessions are hosted by [AWS Student Builder Group at UB](https://www.linkedin.com/company/asbg-ub/home/) and presented by club leader [Ali Al-Abdullah](https://ali-hussain.sa/)
 
-> • Community initiatives and workshop sessions are hosted by [AWS Student Builder Group at UB](https://www.linkedin.com/company/asbg-ub/home/) and presented by club leader [Ali Al-Abdullah](https://ali-hussain.sa/)
+[^7]: Video overview covering introductory cloud concepts and on-demand IT resources is available at [What is Cloud Computing Video](https://youtu.be/mxT233EdY5c); see `video-overview` for details
 
-> • Video overview covering introductory cloud concepts and on-demand IT resources is available at [What is Cloud Computing Video](https://youtu.be/mxT233EdY5c); see `video-overview` for details
+[^8]: Detailed explanation on running and storing applications over the internet is featured in [Cloud Computing Explained Video](https://youtu.be/_a6us8kaq0g); see `cloud-explained` for reference
 
-> • Detailed explanation on running and storing applications over the internet is featured in [Cloud Computing Explained Video](https://youtu.be/_a6us8kaq0g); see `cloud-explained` for reference
+[^9]: Comprehensive walkthrough of essential cloud concepts including scaling and load balancing is provided in [Important Concepts Video](https://youtu.be/ZaA0kNm18pE); check `core-topics`
 
-> • Comprehensive walkthrough of essential cloud concepts including scaling and load balancing is provided in [Important Concepts Video](https://youtu.be/ZaA0kNm18pE); check `core-topics`
+[^10]: Practical workshop demonstrating virtual server deployment via EC2 and Elastic Beanstalk is hosted at [Introduction to Cloud Computing Workshop](https://youtu.be/KnlXTgvUO2Y); see `workshop-recording`
 
-> • Practical workshop demonstrating virtual server deployment via EC2 and Elastic Beanstalk is hosted at [Introduction to Cloud Computing Workshop](https://youtu.be/KnlXTgvUO2Y); see `workshop-recording`
-
-> • Community collaboration, live support, and student discussions are coordinated through the <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff;">AWS Cloud Computing WhatsApp Group</a>; see <code>community-chat</code> for peer assistance. <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff; text-decoration: none;"></a>
-
-</sub>
+[^11]: Community collaboration, live support, and student discussions are coordinated through the <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff;">AWS Cloud Computing WhatsApp Group</a>; see <code>community-chat</code> for peer assistance. <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff; text-decoration: none;"></a>
