@@ -1,6 +1,6 @@
 # Git and GitHub for Cloud Computing
 
-This introductory guide is designed especially to understand how version control systems enable seamless collaboration and configuration tracking in modern cloud environments. Through clear explanations, core Git concepts, and practical video lessons, you will quickly learn how to manage source code, track infrastructure configurations, and coordinate deployments safely. Dive in to build a strong developer foundation for your cloud computing career!
+This introductory guide is designed especially to understand how version control systems enable seamless collaboration and configuration tracking in modern cloud environments, Through clear explanations, core Git concepts, and practical video lessons, you will quickly learn how to manage source code, track infrastructure configurations, and coordinate deployments safely, Dive in to build a strong developer foundation for your cloud computing career!
 
 ### What You Will Learn
 1. **Version Control Basics:** Learn how Git tracks changes and manages code history reliably across teams
@@ -10,13 +10,6 @@ This introductory guide is designed especially to understand how version control
    * **Pull Requests:** Reviewing code changes and maintaining quality standards before deployment
    * etc...
 3. **Practical Implementation:** Watch comprehensive tutorials on mastering Git workflows from basic initialization to advanced professional techniques<br><br>
-
-<div align="center">
-
-> 💡 **Stuck or Want to Build Together?**  
-> You don't have to learn alone! Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get quick support, ask questions, and build exciting hands on cloud projects with ambitious fellow students!
-
-</div>
 
 ***
 
@@ -106,11 +99,19 @@ This comprehensive tutorial by JavaScript Mastery provides a deep dive into Git 
   </a>
 </p>
 
+<div align="center">
+
+> 💡 **Stuck or Want to Build Together?**  
+> You don't have to learn alone! Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get quick support, ask questions, and build exciting hands on cloud projects with ambitious fellow students!
+
+</div>
+
+
 ***
 
 <div align="center">
 
-# You are Doing a Great Work! <br>
+# You are on the Right Path! <br>
 You now have a solid understanding of version control fundamentals and how Git and GitHub operate in professional development and cloud environments
 
 </div>
