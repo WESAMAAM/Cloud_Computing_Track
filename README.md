@@ -27,7 +27,7 @@
 
 | المسار / الموضوع | الوصف والمحتوى | الحالة |
 | :--- | :--- | :---: |
-| Git |  | Pending |
+| Git |  | **Partially Finished** |
 | **[Linux](phase-2-cloud-engineer/07-linux/)** | إدارة أنظمة التشغيل، الصلاحيات، وBash Scripting | **Partially Finished** |
 | **Network Advanced**  |  | ⏳ Pending |
 | **[Terraform](phase-2-cloud-engineer/06-terraform/)** | البنية التحتية ككود (IaC)، لغة HCL، وإدارة الحالات | **Partially Finished** |
