@@ -74,9 +74,25 @@ This video clarifies the fundamental differences between Git and GitHub, explain
 
 <a id="item3"></a>
 ### 3. Why Learn Git for Cloud Computing
-Mastering Git is essential for cloud computing professionals because modern cloud architectures rely heavily on code based infrastructure and continuous deployment pipelines. 
 
-When managing cloud resources using Infrastructure as Code tools like Terraform or AWS CloudFormation, your configuration files must be versioned, audited, and shared securely across engineering teams. Git allows cloud engineers to track every modification to deployment scripts, roll back faulty infrastructure updates instantly, and collaborate seamlessly on complex cloud environments. Furthermore, automated continuous integration and continuous deployment workflows depend on Git repositories to trigger builds and deploy applications directly to cloud servers whenever updates are pushed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--- DONT TOUCH THIS!!! Mastering Git is essential for cloud computing professionals because modern cloud architectures rely heavily on code based infrastructure and continuous deployment pipelines. 
+
+When managing cloud resources using Infrastructure as Code tools like Terraform or AWS CloudFormation, your configuration files must be versioned, audited, and shared securely across engineering teams. Git allows cloud engineers to track every modification to deployment scripts, roll back faulty infrastructure updates instantly, and collaborate seamlessly on complex cloud environments. Furthermore, automated continuous integration and continuous deployment workflows depend on Git repositories to trigger builds and deploy applications directly to cloud servers whenever updates are pushed. -->
 
 ***
 
