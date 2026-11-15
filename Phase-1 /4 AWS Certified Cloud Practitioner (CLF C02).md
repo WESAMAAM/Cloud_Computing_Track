@@ -1,9 +1,9 @@
 # AWS Certified Cloud Practitioner (CLF C02)
-Welcome to the final milestone of Phase 1! This guide is designed especially for students, beginners, and tech enthusiasts who want to validate their cloud knowledge with an industry recognized credential from Amazon Web Services. Through clear domain breakdowns, a complete preparation course, and step by step registration guidance, you will prepare effectively to pass your exam and launch your cloud career!
+Welcome to the final milestone of Phase 1! This guide is designed especially for students, beginners, and tech enthusiasts who want to validate their cloud knowledge with an industry recognized credential from Amazon Web Services[^3]. Through clear domain breakdowns, a complete preparation course, and step by step registration guidance, you will prepare effectively to pass your exam and launch your cloud career!
 
 ### What You Will Learn
-1. **Certification Overview:** Understand the exam structure, core domains, and career benefits of earning the AWS Certified Cloud Practitioner credential
-2. **Core Exam Domains:** Master the four essential pillars covered in the assessment:
+1. **Certification Overview:** Understand the exam structure, core domains, and career benefits of earning the AWS Certified Cloud Practitioner credential[^1]
+2. **Core Exam Domains:** Master the four essential pillars covered in the assessment[^1]:
    * **Cloud Concepts:** Understanding the value and economics of cloud computing
    * **Security and Compliance:** Navigating the shared responsibility model and basic security controls
    * **Technology and Services:** Identifying key compute, storage, database, and networking tools
@@ -42,15 +42,15 @@ Welcome to the final milestone of Phase 1! This guide is designed especially for
 
 </div><br>
 
-The AWS Certified Cloud Practitioner (CLF-C02) is an entry-level credential designed to validate a broad, foundational understanding of the Amazon Web Services cloud ecosystem without requiring deep technical or hands-on coding experience<br>
+The AWS Certified Cloud Practitioner (CLF-C02) is an entry-level credential designed to validate a broad, foundational understanding of the Amazon Web Services cloud ecosystem without requiring deep technical or hands-on coding experience[^1]<br>
 
-Covering four core domains: 
+Covering four core domains[^1]: 
 - cloud concepts
 - security and compliance
 - core AWS technology and services
 - and billing and pricing
 
-the exam has 65-question and takes 90-minute it make whether candidates understand what AWS services do, how the shared responsibility security model works, and how cloud economics operate. Priced at $100 USD(don't worry we will give to you for free) and valid for three years, it serves as an accessible starting point for students, career changers, and business professionals in roles like project management or sales who need shared cloud vocabulary to collaborate effectively with technical teams and build toward higher-level certifications
+the exam has 65-question and takes 90-minute it make whether candidates understand what AWS services do, how the shared responsibility security model works, and how cloud economics operate. Priced at $100 USD(don't worry we will give to you for free) and valid for three years, it serves as an accessible starting point for students, career changers, and business professionals in roles like project management or sales who need shared cloud vocabulary to collaborate effectively with technical teams and build toward higher-level certifications[^1]
 
 <div align="center">
 
@@ -67,9 +67,9 @@ In the job market, this certificate works as a strong first impression. It gives
 AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02) - Pass the Exam!">
 </a>
 
-This video serves as a comprehensive preparation course for the AWS Certified Cloud Practitioner (CLF-C02) exam. It covers a vast range of foundational cloud concepts, AWS services, and operational frameworks<br>
+This video serves as a comprehensive preparation course for the AWS Certified Cloud Practitioner (CLF-C02) exam. It covers a vast range of foundational cloud concepts, AWS services, and operational frameworks[^2]<br>
 
-This video has covered everything that is needed for the exam, in fact it has lot more! It provides deep dives into core security compliance models, billing structure, and hands on architecture walkthroughs, making it an ideal all in one resource for mastering cloud fundamentals<br>
+This video has covered everything that is needed for the exam, in fact it has lot more! It provides deep dives into core security compliance models, billing structure, and hands on architecture walkthroughs, making it an ideal all in one resource for mastering cloud fundamentals[^2]<br>
 
 We guarantee that after fully completing this video, you will be completely ready to pass the exam with confidence
 
@@ -83,9 +83,9 @@ We guarantee that after fully completing this video, you will be completely read
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="450" align="left" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner">
 </a>
 
-Congratulations on reaching the final milestone of Phase 1! Now that you have built a strong theoretical and practical foundation, you are ready to officially register for the [**AWS Certified Cloud Practitioner**](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam<br><br>
+Congratulations on reaching the final milestone of Phase 1! Now that you have built a strong theoretical and practical foundation, you are ready to officially register for the [**AWS Certified Cloud Practitioner**](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam[^1]<br><br>
 
-You can easily schedule your exam through the official **AWS Certification Portal** and choose to take it either online from the comfort of your home with a live proctor, or in person at an accredited testing center near you<br><br>
+You can easily schedule your exam through the official **AWS Certification Portal** and choose to take it either online from the comfort of your home with a live proctor, or in person at an accredited testing center near you[^1]<br><br>
 
 Make sure to review all core domains, take a few final practice tests, and book your exam date early to keep your commitment strong. Earning this globally recognized certification will validate your cloud fluency and unlock exciting opportunities in your tech career!
 
@@ -134,14 +134,10 @@ to dive deeper into cloud infrastructure, virtual private clouds, and network ar
 
 ### References
 
-<sub>
+[^1]: The official certification details, exam guide, and scheduling portal are hosted on [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/); see `certification_portal` for details
 
-> • The official certification details, exam guide, and scheduling portal are hosted on [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/); see `certification_portal` for details
+[^2]: The comprehensive certification preparation video course is available at [AWS Certified Cloud Practitioner Certification Course 2026](https://youtu.be/7HKot-brXFE?si=6lHF1irg7yRRAT6V); check `exam_course` for reference
 
-> • The comprehensive certification preparation video course is available at [AWS Certified Cloud Practitioner Certification Course 2026](https://youtu.be/7HKot-brXFE?si=6lHF1irg7yRRAT6V); check `exam_course` for reference
+[^3]: Foundational cloud services and global infrastructure overviews are detailed on [Amazon Web Services](https://aws.amazon.com/what-is-aws/); see `aws_overview` for details
 
-> • Foundational cloud services and global infrastructure overviews are detailed on [Amazon Web Services](https://aws.amazon.com/what-is-aws/); see `aws_overview` for details
-
-> • Community collaboration, live support, and student discussions are coordinated through the <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff;">AWS Cloud Computing WhatsApp Group</a>; see <code>community-chat</code> for peer assistance. <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff; text-decoration: none;"></a>
-
-</sub>
+[^4]: Community collaboration, live support, and student discussions are coordinated through the <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff;">AWS Cloud Computing WhatsApp Group</a>; see <code>community-chat</code> for peer assistance. <a href="https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2" style="color: #58a6ff; text-decoration: none;"></a>
