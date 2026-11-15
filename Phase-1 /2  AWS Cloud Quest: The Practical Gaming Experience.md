@@ -42,7 +42,7 @@ Welcome to the core of Phase 1! This interactive guide is designed especially fo
 ***
 ### Content Detailed
 ### 1. AWS Cloud Quest 2.0 | Amazon Web Services
-This video introduces AWS Cloud Quest 2.0 as an interactive, role-based learning platform on [`AWS Skill Builder`](https://aws.amazon.com/training/digital/) designed to help users transition from simply building cloud solutions to learning how to design them effectively<br><br>
+This video introduces AWS Cloud Quest 2.0 as an interactive, role-based learning platform on [`AWS Skill Builder`](https://aws.amazon.com/training/digital/)[^1] designed to help users transition from simply building cloud solutions to learning how to design them effectively[^2]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6" target="_blank">
@@ -54,7 +54,7 @@ AWS Cloud Quest 2.0 | Amazon Web Services">
 ***
 <a id="item2"></a>
 ### 2. AWS Cloud Quest - Cloud Practitioner | Amazon Web Services
-This video introduces AWS Cloud Quest: Cloud Practitioner as an interactive, open-world role-playing game designed to help users build practical Amazon Web Services skills in an engaging environment<br><br>
+This video introduces AWS Cloud Quest: Cloud Practitioner as an interactive, open-world role-playing game designed to help users build practical Amazon Web Services skills in an engaging environment[^3]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/lcmVvIeiFGc?si=QEEgNUavaFxo1BG6" target="_blank">
@@ -71,10 +71,10 @@ Is there a more enjoyable way to learn than playing a game?
 
 </div><br>
 
-This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges<br>
+This step is the core and heart of Phase 1 because it teaches you cloud computing through an engaging and fun 3D game format. You step into the role of a Cloud Practitioner in a virtual city, and helping real businesses solve their cloud challenges[^4]<br>
 
 For example:
-- you will fulfill client requests by configuring [`Amazon S3`](https://aws.amazon.com/s3/?trk=aebc39a1-139c-43bb-8354-211ac811b83a&sc_channel=ps&ef_id=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB:G:s&gads_camp=23846236784&gads_ag=200318255990&gads_ad=808827666179&gads_kw=amazon%20s3&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9241351&gad_campaignid=23846236784&gbraid=0AAAAADjHtp8lvG7CLZIOhGMIXtmajrCSp&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB) buckets for secure storage
+- you will fulfill client requests by configuring [`Amazon S3`](https://aws.amazon.com/s3/?trk=aebc39a1-139c-43bb-8354-211ac811b83a&sc_channel=ps&ef_id=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB:G:s&gads_camp=23846236784&gads_ag=200318255990&gads_ad=808827666179&gads_kw=amazon%20s3&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9241351&gad_campaignid=23846236784&gbraid=0AAAAADjHtp8lvG7CLZIOhGMIXtmajrCSp&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrCong2gARvjTDHjVwXM_GNgjZtQukn-iKk9ehQGallfko4OpSbhH94aAr7FEALw_wcB)[^5] buckets for secure storage
 - setting up Amazon EC2 instances to host applications
 - and designing auto scaling solutions to handle high web traffic<br>
 
@@ -94,9 +94,9 @@ For example:
   <img src="/media/AWSCloudQuestCloudPractitionerTraining.png" width="450" align="right" style="margin-left: 20px;" alt="AWS Cloud Quest Badge">
 </a>
 
-This game specifically focuses on the Cloud Practitioner role, helping you build core practical skills<br>
+This game specifically focuses on the Cloud Practitioner role, helping you build core practical skills[^4]<br>
 
-If you face any challenge or have questions while playing, we strongly recommend joining our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get support and participate in hands on cloud projects with fellow students!<br>
+If you face any challenge or have questions while playing, we strongly recommend joining our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2)[^6] to get support and participate in hands on cloud projects with fellow students!<br>
 
 Additionally, if you get stuck on any specific quest, searching on social media platforms or asking AI tools can quickly help you overcome the obstacle<br>
 
@@ -144,18 +144,16 @@ to learn how cloud networks and traffic routing work!
 
 ### References
 
-<sub>
 
-> • The digital training platform and skill builder resources are hosted on [AWS Skill Builder](https://aws.amazon.com/training/digital/); see `skill_builder` for details
+[^1]: The digital training platform and skill builder resources are hosted on [AWS Skill Builder](https://aws.amazon.com/training/digital/); see `skill_builder` for details
 
-> • The video overview introducing AWS Cloud Quest 2.0 and platform features is available at [AWS Cloud Quest 2.0 Video](https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6); see `quest_video` for reference
+[^2]: The video overview introducing AWS Cloud Quest 2.0 and platform features is available at [AWS Cloud Quest 2.0 Video](https://youtu.be/JnPkam4giq8?si=QTdqMgXo_h3OKBh6); see `quest_video` for reference
 
-> • The video introduction covering the Cloud Practitioner game environment is featured in [Cloud Practitioner Video](https://youtu.be/lcmVvIeiFGc?si=QEEgNUavaFxo1BG6); check `practitioner_video` for details
+[^3]: The video introduction covering the Cloud Practitioner game environment is featured in [Cloud Practitioner Video](https://youtu.be/lcmVvIeiFGc?si=QEEgNUavaFxo1BG6); check `practitioner_video` for details
 
-> • The official interactive 3D role playing learning platform is hosted on [AWS Cloud Quest Training](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT); see `cloud_quest` for access
+[^4]: The official interactive 3D role playing learning platform is hosted on [AWS Cloud Quest Training](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT); see `cloud_quest` for access
 
-> • The cloud storage service used for secure client data configuration is detailed on [Amazon S3](https://aws.amazon.com/s3/); see `amazon_s3` for pricing and features
+[^5]: The cloud storage service used for secure client data configuration is detailed on [Amazon S3](https://aws.amazon.com/s3/); see `amazon_s3` for pricing and features
 
-> • Community collaboration, live support, and student discussions are coordinated through the [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2); check `community_chat` for peer assistance
+[^6]: Community collaboration, live support, and student discussions are coordinated through the [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2); check `community_chat` for peer assistance
 
-</sub>
