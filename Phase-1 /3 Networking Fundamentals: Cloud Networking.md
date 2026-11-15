@@ -1,9 +1,9 @@
 # Networking Fundamentals: Cloud Networking
 
-This introductory guide is designed especially to understand how modern cloud networks operate using Amazon Web Services. Through clear explanations, core networking concepts, and practical video lessons, you will quickly learn how virtual private clouds, subnets, routers, and gateways replace traditional physical networking hardware. Dive in to build a strong networking foundation for your tech career!
+This introductory guide is designed especially to understand how modern cloud networks operate using Amazon Web Services.[^1] Through clear explanations, core networking concepts, and practical video lessons, you will quickly learn how virtual private clouds, subnets, routers, and gateways replace traditional physical networking hardware. Dive in to build a strong networking foundation for your tech career!
 
 ### What You Will Learn
-1. **Cloud Networking Basics:** Learn how Virtual Private Clouds and subnets isolate and organize IT resources securely over the internet
+1. **Cloud Networking Basics:** Learn how Virtual Private Clouds and subnets isolate and organize IT resources securely over the internet[^1]
 2. **Core Networking Components:** Understand essential architectural elements easily:
    * **IP Addressing:** Assigning and managing unique identifiers for cloud servers
    * **Routing Tables:** Directing network traffic safely between subnets and the internet
@@ -14,7 +14,7 @@ This introductory guide is designed especially to understand how modern cloud ne
 <div align="center">
 
 > 💡 **Stuck or Want to Build Together?**  
-> You don't have to learn alone! Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2) to get quick support, ask questions, and build exciting hands on cloud projects with ambitious fellow students!
+> You don't have to learn alone! Join our [**AWS Cloud Computing WhatsApp Group**](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2)[^4] to get quick support, ask questions, and build exciting hands on cloud projects with ambitious fellow students!
 
 </div>
 
@@ -51,7 +51,7 @@ This introductory guide is designed especially to understand how modern cloud ne
 
 <a id="item2"></a>
 ### 2. AWS Networking Basics For Programmers | Hands On
-This video serves as a practical guide for programmers looking to understand the fundamentals of AWS networking. The creator walks through building a secure network architecture from scratch in AWS, moving beyond theory to explain core components and terminology<br><br>
+This video serves as a practical guide for programmers looking to understand the fundamentals of AWS networking. The creator walks through building a secure network architecture from scratch in AWS, moving beyond theory to explain core components and terminology[^2]<br><br>
 
 <p align="center">
   <a href="https://youtu.be/2doSoMN2xvI?si=oK_LPycgJdAacqZ8" target="_blank">
@@ -63,7 +63,7 @@ This video serves as a practical guide for programmers looking to understand the
 
 <a id="item3"></a>
 ### 3. AWS Networking | Digital Cloud Training
-This playlist is a twelve part series titled AWS Networking created by Digital Cloud Training. Its primary goal is to bridge the gap between traditional foundational networking concepts and their implementation within modern cloud environments, specifically Amazon Web Services<br><br>
+This playlist is a twelve part series titled AWS Networking created by Digital Cloud Training. Its primary goal is to bridge the gap between traditional foundational networking concepts and their implementation within modern cloud environments, specifically Amazon Web Services[^3]<br><br>
 
 <a href="https://www.youtube.com/watch?v=nKrc3FAIYHU&list=PLzde74P_a04d6M7U-3_r4EJHTBg1UJfzT" target="_blank">
   <img src="/media/CloudNetworking.jpg" width="450" align="right" style="margin-left: 20px;" alt="AWS Networking">
@@ -111,14 +111,10 @@ to learn how to launch and manage scalable virtual servers in the cloud!
 
 ### References
 
-<sub>
+[^1]: The core networking fundamentals and infrastructure design principles are detailed in [AWS Networking Documentation](https://aws.amazon.com/networking/); see `networking_basics` for details
 
-> • The core networking fundamentals and infrastructure design principles are detailed in [AWS Networking Documentation](https://aws.amazon.com/networking/); see `networking_basics` for details
+[^2]: The practical video guide for programmers building secure network architectures is available at [AWS Networking Basics Video](https://youtu.be/2doSoMN2xvI?si=oK_LPycgJdAacqZ8); check `hands_on_networking` for reference
 
-> • The practical video guide for programmers building secure network architectures is available at [AWS Networking Basics Video](https://youtu.be/2doSoMN2xvI?si=oK_LPycgJdAacqZ8); check `hands_on_networking` for reference
+[^3]: The comprehensive multi part playlist bridging traditional networking with AWS is hosted on [AWS Networking Playlist](https://www.youtube.com/watch?v=nKrc3FAIYHU&list=PLzde74P_a04d6M7U-3_r4EJHTBg1UJfzT); see `networking_playlist` for access
 
-> • The comprehensive multi part playlist bridging traditional networking with AWS is hosted on [AWS Networking Playlist](https://www.youtube.com/watch?v=nKrc3FAIYHU&list=PLzde74P_a04d6M7U-3_r4EJHTBg1UJfzT); see `networking_playlist` for access
-
-> • Community collaboration, live support, and student discussions are coordinated through the [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2); check `community_chat` for peer assistance
-
-</sub>
+[^4]: Community collaboration, live support, and student discussions are coordinated through the [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2); check `community_chat` for peer assistance
