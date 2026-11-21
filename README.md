@@ -32,7 +32,7 @@
 | **Network Advanced**  |  | **Partially Finished** |
 | **[Terraform](phase-2-cloud-engineer/06-terraform/)** | البنية التحتية ككود (IaC)، لغة HCL، وإدارة الحالات | **Partially Finished** |
 | **Python** |  | **Partially Finished** |
-| **[شهادة Solutions Architect Associate](phase-2-cloud-engineer/08-saa-certificate/)** | تصميم معماريات مرنة وآمنة وفعالة على AWS | ⏳ Pending |
+| **[شهادة Solutions Architect Associate](phase-2-cloud-engineer/08-saa-certificate/)** | تصميم معماريات مرنة وآمنة وفعالة على AWS |  Partially Finishedg |
 ### أقسام إضافية
 - [مهارات إضافية](extras/)
 - [مقترحات وأفكار للنقاش](notes-and-ideas/)
