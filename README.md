@@ -1,4 +1,37 @@
----
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
+    <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
+    <img src="media/logo-black.png" width="600" alt="Logo">
+  </picture>
+</div>
+
+
+
+<div align="center">
+  <a href="#---">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
+      <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
+      <img src="media/logo-black.png" width="600" alt="Logo">
+    </picture>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## خريطة المسار
 
