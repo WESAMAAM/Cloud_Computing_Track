@@ -12,7 +12,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
     <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
-    <img src="media/logo-black.png" width="600" alt="Main Sponsors">
+    <img src="media/logo-black.png" width="750" alt="Main Sponsors">
   </picture>
 </div>
 
