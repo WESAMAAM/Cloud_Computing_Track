@@ -1,22 +1,19 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/media/RoadmapLogoWhite.png">
+    <source media="(prefers-color-scheme: light)" srcset="/media/RoadmapLogoBlack.png">
+    <img src="media/logo-black.png" width="1000" alt="Main Sponsors">
+  </picture>
+</div>
+
+***
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
     <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
-    <img src="media/logo-black.png" width="600" alt="Logo">
+    <img src="media/logo-black.png" width="600" alt="Main Sponsors">
   </picture>
-</div>
-
-
-
-<div align="center">
-  <a href="#---">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
-      <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
-      <img src="media/logo-black.png" width="600" alt="Logo">
-    </picture>
-  </a>
 </div>
 
 
