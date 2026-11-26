@@ -6,13 +6,7 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
-    <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
-    <img src="media/logo-black.png" width="350" alt="Main Sponsors">
-  </picture>
-</div>
+***
 
 ## About
 
@@ -99,4 +93,14 @@ In this phase, you will move into deeper engineering and architecture topics by 
 
 > **Phase 2 Summary:** Completing Phase 2 takes approximately **100 to 145 hours** in total depending on your prior technical background. All study guides, courses, and tools are **100% free**, with an optional **$150 USD** fee only if you choose to sit for the official AWS Certified Solutions Architect Associate exam.
 
+</div>
+
+***
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
+    <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
+    <img src="media/logo-black.png" width="350" alt="Main Sponsors">
+  </picture>
 </div>
