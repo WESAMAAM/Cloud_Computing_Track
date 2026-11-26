@@ -104,11 +104,11 @@ In this phase, you will move into deeper engineering and architecture topics by 
 
 > • The official student club community group where members ask questions and share progress [AWS Cloud Computing WhatsApp Group](https://chat.whatsapp.com/FYpwSMmx2D76qt2eAM0vtF?s=sh&p=a&iam=2)
 
-> • The official Amazon Web Services introductory guide explaining core cloud computing concepts, global infrastructure, and available cloud services on [Amazon Web Services (AWS)](https://aws.amazon.com/what-is-aws/)
+> • The official Amazon Web Services introductory guide explaining core cloud computing concepts and available cloud services on [Amazon Web Services (AWS)](https://aws.amazon.com/what-is-aws/)
 
 > • The official certification page outlining exam domains, preparation resources, and scheduling details for beginners on [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-> • The official certification page detailing architectural domains, exam requirements, and study guides for cloud engineers on [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+> • The official certification page detailing architectural domains and exam requirements on [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 > • The official Microsoft documentation page introducing Azure cloud services and core capabilities for comparison on [Microsoft Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure)
 
