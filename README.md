@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/media/SponsorsWhite.png">
     <source media="(prefers-color-scheme: light)" srcset="/media/SponsorsBlack.png">
-    <img src="media/logo-black.png" width="750" alt="Main Sponsors">
+    <img src="media/logo-black.png" width="350" alt="Main Sponsors">
   </picture>
 </div>
 
@@ -30,7 +30,13 @@ So cloud computing is not just a specialized field for those who want to master 
 
 Compared to competitors like Microsoft Azure and Google Cloud Platform (GCP), Amazon Web Services (AWS) is the most widely used cloud provider globally, offering the largest set of services, rich free training tools, and high demand certifications in the tech job market. Mastering AWS gives you a strong industry standard foundation that makes working with any cloud platform straightforward and confident!
 
-## Roadmap Phases
+***
+
+<div align="center">
+
+We divided this roadmap into two clear phases so you can learn at the right pace based on your goals. Whether you want a solid cloud foundation for any tech role or aim to specialize in cloud engineering, each phase gives you a structured path with clear outcomes. **Phase 1** builds your core understanding of cloud concepts and AWS essentials, while **Phase 2** takes you deeper into hands on engineering tools, automation, and real world system architecture!
+
+</div>
 
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="250" align="right" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner (CLF-C02)">
