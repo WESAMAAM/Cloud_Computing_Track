@@ -58,7 +58,7 @@ In this phase, you will build your core cloud foundation step by step by answeri
 
 **In short:** You will start with cloud foundations, practice through AWS Cloud Quest, learn basic cloud networking, and get ready to earn the **AWS Certified Cloud Practitioner (CLF C02)** certification!
 
-<br clear="all"><br>
+<br clear="all">
 
 | Step / Topic | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
