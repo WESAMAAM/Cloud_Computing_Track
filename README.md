@@ -48,7 +48,7 @@ We divided this roadmap into two clear phases so you can learn at the right pace
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="250" align="right" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner (CLF-C02)">
 </a>
 
-### Phase 1: Cloud Foundations (For All Tech Roles)
+### [Phase 1: Cloud Foundations (For All Tech Roles)](https://github.com/WESAMAAM/cloud-computing-roadmap/tree/main/phase-1%20)
 In this phase, you will build your core cloud foundation step by step by answering key questions: What is the cloud, and why do modern companies rely on it? How can you practice cloud concepts hands on through AWS Cloud Quest? How do cloud networking fundamentals work at a basic level? And how do you prepare to pass your first official cloud certification?
 
 **In short:** You will start with cloud foundations, practice through AWS Cloud Quest, learn basic cloud networking, and get ready to earn the **AWS Certified Cloud Practitioner (CLF C02)** certification!
@@ -57,10 +57,10 @@ In this phase, you will build your core cloud foundation step by step by answeri
 
 | Step / Topic | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
-| [1. First Step to the Cloud: Foundations Made Simple](Phase-1/1%20First%20Step%20to%20the%20Cloud:%20Foundations%20Made%20Simple.md) | Core cloud computing concepts, service models, and AWS global infrastructure | ~ 4 Hours | Free |
-| [2. AWS Cloud Quest: The Practical Gaming Experience](Phase-1/2%20AWS%20Cloud%20Quest:%20The%20Practical%20Gaming%20Experience.md) | Hands on practice with core AWS services inside an interactive 3D environment | ~ 13 Hours | Free |
-| [3. Networking Fundamentals: Cloud Networking](Phase-1/3%20Networking%20Fundamentals:%20Cloud%20Networking.md) | Essential networking concepts including IP addressing, DNS, VPC basics, and security groups | ~ 4 Hours | Free |
-| [4. AWS Certified Cloud Practitioner (CLF C02)](Phase-1/4%20AWS%20Certified%20Cloud%20Practitioner%20(CLF%20C02).md) | Structured exam preparation, study guides, and practice readiness for your first certification | ~ 15 Hours | Free ($100 USD free voucher for the exam!) |
+| [1. First Step to the Cloud: Foundations Made Simple](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/1%20First%20Step%20to%20the%20Cloud%3A%20Foundations%20Made%20Simple.md) | Core cloud computing concepts, service models, and AWS global infrastructure | ~ 4 Hours | Free |
+| [2. AWS Cloud Quest: The Practical Gaming Experience](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/2%20%20AWS%20Cloud%20Quest%3A%20The%20Practical%20Gaming%20Experience.md) | Hands on practice with core AWS services inside an interactive 3D environment | ~ 13 Hours | Free |
+| [3. Networking Fundamentals: Cloud Networking](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/3%20Networking%20Fundamentals%3A%20Cloud%20Networking.md) | Essential networking concepts including IP addressing, DNS, VPC basics, and security groups | ~ 4 Hours | Free |
+| [4. AWS Certified Cloud Practitioner (CLF C02)](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/4%20AWS%20Certified%20Cloud%20Practitioner%20(CLF%20C02).md) | Structured exam preparation, study guides, and practice readiness for your first certification | ~ 15 Hours | Free ($100 USD free voucher for the exam!) |
 
 <div align="center">
 
@@ -83,12 +83,12 @@ In this phase, you will move into deeper engineering and architecture topics by 
 
 | Step / Topic | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
-| [1. Git and GitHub for Cloud Computing](Phase-2/1%20Git%20and%20GitHub%20for%20Cloud%20Computing.md) | Version control fundamentals, repositories, branching, and collaborative workflows | - | - |
-| [2. Linux Administration Essentials](Phase-2/Linux.md) | Operating system management, command line navigation, permissions, and Bash scripting | - | - |
-| [3. Network Advanced: Deep Dive Into Networking](Phase-2/Networking%20Advanced:%20Deep%20Dive%20Into%20Networking.md) | Deep dive into routing, subnetting, VPNs, hybrid connectivity, and enterprise cloud networking | - | - |
-| [4. Infrastructure as Code with Terraform](Phase-2/Terraform.md) | Automating cloud infrastructure deployment using HCL language, modules, and state management | - | - |
-| [5. Python for Cloud Automation](Phase-2/python.md) | Python programming fundamentals and automating AWS tasks using the Boto3 SDK and Lambda | - | - |
-| [6. AWS Certified Solutions Architect Associate](Phase-2/AWS%20Certified%20Solutions%20Architect%20Associate.md) | Designing secure, resilient, high performing, and cost optimized architectures on AWS | - | - |
+| 1. Git and GitHub for Cloud Computing | Version control fundamentals, repositories, branching, and collaborative workflows | - | - |
+| 2. Linux Administration Essentials | Operating system management, command line navigation, permissions, and Bash scripting | - | - |
+| 3. Network Advanced: Deep Dive Into Networking | Deep dive into routing, subnetting, VPNs, hybrid connectivity, and enterprise cloud networking | - | - |
+| 4. Infrastructure as Code with Terraform | Automating cloud infrastructure deployment using HCL language, modules, and state management | - | - |
+| 5. Python for Cloud Automation | Python programming fundamentals and automating AWS tasks using the Boto3 SDK and Lambda | - | - |
+| 6. AWS Certified Solutions Architect Associate | Designing secure, resilient, high performing, and cost optimized architectures on AWS | - | - |
 
 <div align="center">
 
