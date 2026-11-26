@@ -40,7 +40,7 @@ Compared to competitors like [Microsoft Azure](https://azure.microsoft.com/en-us
 
 <div align="center">
 
-We divided this roadmap into two clear phases so you can learn at the right pace based on your goals, Whether you want a solid cloud foundation for any tech role or aim to specialize in cloud engineering, each phase gives you a structured path with clear outcomes, **Phase 1** builds your core understanding of cloud concepts and AWS essentials, while **Phase 2** takes you deeper into hands on engineering tools, automation, and real world system architecture!
+We divided this roadmap into two clear phases so you can learn at the right pace based on your goals, Whether you want a solid cloud foundation for any tech role or aim to specialize in cloud engineering, each phase gives you a structured path with clear outcomes, [**Phase 1**](https://github.com/WESAMAAM/cloud-computing-roadmap/tree/main/phase-1%20) builds your core understanding of cloud concepts and AWS essentials, while [**Phase 2**](https://github.com/WESAMAAM/cloud-computing-roadmap/tree/main/phase-2%20) takes you deeper into hands on engineering tools, automation, and real world system architecture!
 
 </div>
 
