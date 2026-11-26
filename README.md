@@ -74,7 +74,7 @@ In this phase, you will build your core cloud foundation step by step by answeri
   <img src="/media/AWSCertifiedSolutionsArchitectAssociate.webp" width="250" align="left" style="margin-left: 20px;" alt="AWS Certified Solutions Architect Associate">
 </a>
 
-### Phase 2: Cloud Engineering and Architecture (For Specialists)
+### [Phase 2: Cloud Engineering and Architecture (For Specialists)](https://github.com/WESAMAAM/cloud-computing-roadmap/tree/main/phase-2%20)
 In this phase, you will move into deeper engineering and architecture topics by answering key questions: How do you use Git and GitHub for cloud workflows? How do you manage Linux systems and build stronger networking skills? How do you automate cloud tasks with Python and manage infrastructure with Terraform? And how do real Solutions Architects design secure, resilient, and cost optimized systems on AWS?
 
 **In short:** You will build practical engineering skills across Git and GitHub, Linux, advanced networking, Python, and Terraform, preparing you for cloud roles and the **AWS Certified Solutions Architect Associate** certification!
