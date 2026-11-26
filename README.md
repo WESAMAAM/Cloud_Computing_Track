@@ -19,24 +19,27 @@
 This is a complete step-by-step cloud computing learning roadmap built for students and beginners using Amazon Web Services (AWS)<br>
 where you will learn how to work with the cloud across different tech roles, and you will also dive deeper to master its core areas if your goal is to specialize in cloud engineering
 
-<div align="left">
-  <img src="/media/meme4.gif" width="300" alt="">
-</div>
-
 ## Why Cloud?
 
 Today, modern companies rely heavily on cloud computing to build, host, and scale their applications, databases, and AI models instead of managing expensive physical servers. Learning how the cloud works gives you a major advantage in the job market, allowing you to deploy real projects online, handle large scale data, and build reliable systems with global reach<br>
 
+<a href="" target="_blank">
+  <img src="/media/meme4.gif" width="250" align="right" style="margin-left: 20px;" alt="">
+</a><br>
+
 So cloud computing is not just a specialized field for those who want to master every single detail of the cloud. Instead, it is an essential skill for every tech professional, because sooner or later, you will interact with it and use it in your work. This is exactly what this phase aims to achieve: giving you a solid foundational understanding so you can use the cloud comfortably and confidently in your projects!
 
+<br clear="all">
 
 ## Why AWS Over Competitors?
 
+<a href="" target="_blank">
+  <img src="/media/meme5.jpeg" width="250" align="left" style="margin-left: 20px;" alt="">
+</a><br><br>
+
 Compared to competitors like Microsoft Azure and Google Cloud Platform (GCP), Amazon Web Services (AWS) is the most widely used cloud provider globally, offering the largest set of services, rich free training tools, and high demand certifications in the tech job market. Mastering AWS gives you a strong industry standard foundation that makes working with any cloud platform straightforward and confident!
 
-<div align="left">
-  <img src="/media/meme5.jpeg" width="300" alt="">
-</div>
+<br clear="all">
 
 ***
 
@@ -50,12 +53,12 @@ We divided this roadmap into two clear phases so you can learn at the right pace
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="250" align="right" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner (CLF-C02)">
 </a>
 
-### Phase 1: Cloud Foundations and Practitioner Readiness
+### Phase 1: Cloud Foundations (For All Tech Roles)
 In this phase, you will build your core cloud foundation step by step by answering key questions: What is the cloud, and why do modern companies rely on it? How can you practice cloud concepts hands on through AWS Cloud Quest? How do cloud networking fundamentals work at a basic level? And how do you prepare to pass your first official cloud certification?
 
 **In short:** You will start with cloud foundations, practice through AWS Cloud Quest, learn basic cloud networking, and get ready to earn the **AWS Certified Cloud Practitioner (CLF C02)** certification!
 
-<br clear="all">
+<br clear="all"><br>
 
 | Step / Topic | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
@@ -76,7 +79,7 @@ In this phase, you will build your core cloud foundation step by step by answeri
   <img src="/media/AWSCertifiedSolutionsArchitectAssociate.webp" width="250" align="left" style="margin-left: 20px;" alt="AWS Certified Solutions Architect Associate">
 </a>
 
-### Phase 2: Cloud Engineering and Architecture Mastery
+### Phase 2: Cloud Engineering and Architecture (For Specialists)
 In this phase, you will move into deeper engineering and architecture topics by answering key questions: How do you use Git and GitHub for cloud workflows? How do you manage Linux systems and build stronger networking skills? How do you automate cloud tasks with Python and manage infrastructure with Terraform? And how do real Solutions Architects design secure, resilient, and cost optimized systems on AWS?
 
 **In short:** You will build practical engineering skills across Git and GitHub, Linux, advanced networking, Python, and Terraform, preparing you for cloud roles and the **AWS Certified Solutions Architect Associate** certification!
