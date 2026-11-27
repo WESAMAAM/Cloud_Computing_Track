@@ -2,7 +2,7 @@
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="250" align="right" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner (CLF-C02)">
 </a>
 
-### [Phase 1: Cloud Foundations (For All Tech Roles)](https://github.com/WESAMAAM/cloud-computing-roadmap/tree/main/phase-1%20)
+### Phase 1: Cloud Foundations (For All Tech Roles)
 In this phase, you will build your core cloud foundation step by step by answering key questions: What is the cloud, and why do modern companies rely on it? How can you practice cloud concepts hands on through AWS Cloud Quest? How do cloud networking fundamentals work at a basic level? And how do you prepare to pass your first official cloud certification?
 
 **In short:** You will start with cloud foundations, practice through AWS Cloud Quest, learn basic cloud networking, and get ready to earn the **AWS Certified Cloud Practitioner (CLF C02)** certification!
