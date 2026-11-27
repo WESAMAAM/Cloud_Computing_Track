@@ -9,7 +9,7 @@ In this phase, you will move into deeper engineering and architecture topics by 
 
 <br clear="all">
 
-| Step / Topic | Description and Content | Estimated Time | Cost |
+| Step | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
 | 1. Git and GitHub for Cloud Computing | Version control fundamentals, repositories, branching, and collaborative workflows | - | - |
 | 2. Linux Administration Essentials | Operating system management, command line navigation, permissions, and Bash scripting | - | - |
