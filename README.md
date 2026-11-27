@@ -1,5 +1,5 @@
 > [!NOTE]
-> For the best layout and full diagram clarity, please view this roadmap on a laptop or desktop screen.
+> For the best layout and full diagram clarity, please view this roadmap on a laptop or desktop screen
 
 <div align="center">
   <picture>
