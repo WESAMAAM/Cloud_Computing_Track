@@ -1,3 +1,6 @@
+> [!NOTE]
+> For the best layout and full diagram clarity, please view this roadmap on a laptop or desktop screen.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/media/RoadmapLogoWhite.png">
