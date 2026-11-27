@@ -9,7 +9,7 @@ In this phase, you will build your core cloud foundation step by step by answeri
 
 <br clear="all">
 
-| Step / Topic | Description and Content | Estimated Time | Cost |
+| Step | Description and Content | Estimated Time | Cost |
 | :--- | :--- | :--- | :--- |
 | [1. First Step to the Cloud: Foundations Made Simple](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/1%20First%20Step%20to%20the%20Cloud%3A%20Foundations%20Made%20Simple.md) | Core cloud computing concepts, service models, and AWS global infrastructure | ~ 4 Hours | Free |
 | [2. AWS Cloud Quest: The Practical Gaming Experience](https://github.com/WESAMAAM/cloud-computing-roadmap/blob/main/phase-1%20/2%20%20AWS%20Cloud%20Quest%3A%20The%20Practical%20Gaming%20Experience.md) | Hands on practice with core AWS services inside an interactive 3D environment | ~ 13 Hours | Free |
