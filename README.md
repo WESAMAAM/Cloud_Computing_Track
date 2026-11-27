@@ -46,6 +46,8 @@ We divided this roadmap into two clear phases so you can learn at the right pace
 
 ![Roadmap Architecture](media/RoadmapArchitecture.jpg)<br>
 
+***
+
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
   <img src="/media/AWSCertifiedCloudPractitioner(CLF-C02)Exam.webp" width="250" align="right" style="margin-left: 20px;" alt="AWS Certified Cloud Practitioner (CLF-C02)">
 </a>
