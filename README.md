@@ -138,3 +138,5 @@ In this phase, you will move into deeper engineering and architecture topics by 
     <img src="media/logo-black.png" width="350" alt="Main Sponsors">
   </picture>
 </div>
+
+<!--- ~WESAM
